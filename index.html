@@ -5,8 +5,9 @@ layout: default
 <div class="home">
 
 <div class="preview-block">
-<a href="https://humaniterations.net/2016/05/16/the-orthogonality-thesis-ontological-crises/"><h2> The Orthogonality Thesis &amp; Ontological Crises</h2></a>
-<p>In talking about AI over the last few years Nick Bostrom and Stuart Armstrong&nbsp;have very successfully popularized a more formal and nerdy re-statement of the Humean claim that values and rationality are orthogonal. I generally like to refer to their Orthogonality Thesis&nbsp;as the most rigorous reformulation and baseline argument for the value-nihilist claim: Thinking&nbsp;about things […]</p>
+
+  <a href="{{ site.posts.first.url }}"><h2>{{site.posts.first.title}}</h2></a>
+  <p>{{ site.posts.first.content | strip_html | truncatewords: 50 }} [...]</p>
 </div>
 
 <a class="rss" href="{{ "/feed.xml" | prepend: site.baseurl }}">rss</a>
