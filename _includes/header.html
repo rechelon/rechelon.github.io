@@ -1,10 +1,10 @@
 <header class="site-header header">
 
-<a href="{{ site.baseurl }}/"><div class="site-title">{{ site.title }}</div></a>
+<a href="{{ site.baseurl }}/"><div class="site-title">{{ site.name }}</div></a>
 <div class="top-sidebar">
   {% for my_page in site.pages %}
     {% if my_page.title %}
-    <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> 
     {% endif %}
   {% endfor %}
 </div>
