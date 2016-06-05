@@ -4,7 +4,7 @@ title: 'Here&#8217;s to Those Who Care Enough to Argue'
 date: 2012-02-03T03:14:00+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1214
+guid: http://rechelon.github.io/?p=1214
 permalink: /2012/02/03/heres-to-those-who-care-enough-to-argue/
 hidden:
   - 1

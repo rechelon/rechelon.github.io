@@ -4,7 +4,7 @@ title: The Organic Emergence of Property from Reputation
 date: 2016-02-19T00:15:28+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1881
+guid: http://rechelon.github.io/?p=1881
 permalink: /2016/02/19/the-organic-emergence-of-property-from-reputation/
 hidden:
   - 0

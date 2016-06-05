@@ -4,7 +4,7 @@ title: Organizations Versus Getting Shit Done
 date: 2012-01-31T21:01:08+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1156
+guid: http://rechelon.github.io/?p=1156
 permalink: /2012/01/31/organizations-versus-getting-shit-done/
 categories:
   - 'Anarchist Core Concepts &amp; Theory'

@@ -4,7 +4,7 @@ title: Why Physics
 date: 2015-06-09T09:09:57+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1701
+guid: http://rechelon.github.io/?p=1701
 permalink: /2015/06/09/why-physics/
 hidden:
   - 0

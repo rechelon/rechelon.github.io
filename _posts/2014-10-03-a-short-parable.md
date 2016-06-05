@@ -4,7 +4,7 @@ title: A Short Parable
 date: 2014-10-03T07:42:23+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1542
+guid: http://rechelon.github.io/?p=1542
 permalink: /2014/10/03/a-short-parable/
 hidden:
   - 0

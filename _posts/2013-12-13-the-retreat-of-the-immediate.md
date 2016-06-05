@@ -4,7 +4,7 @@ title: The Retreat Of The Immediate
 date: 2013-12-13T10:26:59+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1451
+guid: http://rechelon.github.io/?p=1451
 permalink: /2013/12/13/the-retreat-of-the-immediate/
 hidden:
   - 0

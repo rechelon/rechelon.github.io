@@ -4,7 +4,7 @@ title: 'Debt: The Possibilities Ignored'
 date: 2014-10-08T20:25:43+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1548
+guid: http://rechelon.github.io/?p=1548
 permalink: /2014/10/08/debt-the-possibilities-ignored/
 hidden:
   - 0

@@ -4,7 +4,7 @@ title: How and why Jason Godesky is so wrong his ancestors are wrong
 date: 2007-06-13T21:30:58+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1525
+guid: http://rechelon.github.io/?p=1525
 permalink: /2007/06/13/how-and-why-jason-godesky-is-so-wrong-his-ancestors-are-wrong/
 hidden:
   - 1

@@ -4,7 +4,7 @@ title: 'Dear Privileged Friends Of Mine Being Demanding On Other People&#8217;s 
 date: 2012-12-16T19:52:35+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1378
+guid: http://rechelon.github.io/?p=1378
 permalink: /2012/12/16/dear-privileged-friends-of-mine-being-demanding-on-other-peoples-walls/
 hidden:
   - 1

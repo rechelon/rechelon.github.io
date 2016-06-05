@@ -4,7 +4,7 @@ title: The Ethics Of Eyebrow Raising
 date: 2015-08-01T18:39:02+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1713
+guid: http://rechelon.github.io/?p=1713
 permalink: /2015/08/01/the-ethics-of-eyebrow-raising/
 hidden:
   - 0

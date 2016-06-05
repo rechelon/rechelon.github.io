@@ -4,7 +4,7 @@ title: Manipulation As Withholding
 date: 2016-02-19T13:58:59+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1864
+guid: http://rechelon.github.io/?p=1864
 permalink: /2016/02/19/manipulation-as-withholding/
 hidden:
   - 0

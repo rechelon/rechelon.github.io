@@ -5,7 +5,7 @@ date: 2016-05-10T12:35:00+00:00
 author: rechelon
 excerpt: 'Talking about nihilism, much less attempting to define and critique it is an exhausting sort of task, akin to talking to a mischievous toddler who has learned some empty single-word responses that make an adult go in circles. And one risks serious strain from all the eyerolling necessary to get through any such discussion […]'
 layout: post
-guid: http://humaniterations.net/?p=1916
+guid: http://rechelon.github.io/?p=1916
 permalink: /2016/05/10/nihilism-a-lie-in-service-to-the-existing/
 hidden:
   - 0
@@ -14,11 +14,11 @@ categories:
 ---
 <div id="attachment_1726" class="wp-caption aligncenter" style="width: 660px;">
   <p>
-    <img class="wp-image-1726" src="http://humaniterations.net/wp-content/uploads/2016/07/nihil-cover.png" alt="Nihilism" width="442" height="719" />
+    <img class="wp-image-1726" src="http://rechelon.github.io/wp-content/uploads/2016/07/nihil-cover.png" alt="Nihilism" width="442" height="719" />
   </p>
   
   <p class="wp-caption-text">
-    This text is available as a zine <strong><a href="http://humaniterations.net/wp-content/uploads/2016/05/nihil.pdf">formatted for printing</a></strong>.
+    This text is available as a zine <strong><a href="http://rechelon.github.io/wp-content/uploads/2016/05/nihil.pdf">formatted for printing</a></strong>.
   </p>
 </div>
 
@@ -68,7 +68,7 @@ A common speculative fantasy with sometimes intense aesthetic and emotional affe
 
 I would like to posit a profoundly unoriginal alternate hypothesis: The vigilance necessary to reveal and strip away the false pretenses of our arbitrary inherited values is itself an emergent value.
 
-While strawmen can be constructed around terms like &#8220;rationality&#8221; and &#8220;science&#8221;, there remains a direction of coherent inquiry nonetheless that does not invalidate itself. I&#8217;ve termed this &#8220;[radicalism](https://humaniterations.net/2015/08/18/science-as-radicalism/)&#8221; in light of what anarchists and other political radicals have traditionally found valuable in that word &#8212; the pursuit of roots. But this is a starkly philosophically realist position: it assumes that there are roots to be gotten at. Or, perhaps less audaciously, it merely finds nothing to hold onto outside that assumption and so proceeds with it.
+While strawmen can be constructed around terms like &#8220;rationality&#8221; and &#8220;science&#8221;, there remains a direction of coherent inquiry nonetheless that does not invalidate itself. I&#8217;ve termed this &#8220;[radicalism](https://rechelon.github.io/2015/08/18/science-as-radicalism/)&#8221; in light of what anarchists and other political radicals have traditionally found valuable in that word &#8212; the pursuit of roots. But this is a starkly philosophically realist position: it assumes that there are roots to be gotten at. Or, perhaps less audaciously, it merely finds nothing to hold onto outside that assumption and so proceeds with it.
 
 While I&#8217;ve more frequently invoked value-nihilism than epistemological-nihilism up until now, you can see that the two are of course deeply connected and in an ultimate sense inseparable.
 

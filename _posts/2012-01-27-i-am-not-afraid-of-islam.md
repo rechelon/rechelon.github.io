@@ -4,7 +4,7 @@ title: I Am Not Afraid of Islam
 date: 2012-01-27T16:41:47+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1161
+guid: http://rechelon.github.io/?p=1161
 permalink: /2012/01/27/i-am-not-afraid-of-islam/
 hidden:
   - 1

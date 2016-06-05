@@ -4,7 +4,7 @@ title: 'The Orthogonality Thesis &#038; Ontological Crises'
 date: 2016-05-16T14:59:15+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1983
+guid: http://rechelon.github.io/?p=1983
 permalink: /2016/05/16/the-orthogonality-thesis-ontological-crises/
 hidden:
   - 0
@@ -13,7 +13,7 @@ categories:
 ---
 In talking about AI over the last few years Nick Bostrom and Stuart Armstrong have very successfully popularized a more formal and nerdy re-statement of the Humean claim that values and rationality are orthogonal.
 
-I generally like to refer to their Orthogonality Thesis as the most rigorous reformulation and baseline argument for the [value-nihilist claim](https://humaniterations.net/2016/05/10/nihilism-a-lie-in-service-to-the-existing/): _Thinking about things more will not incline minds to certain values or cause them to inevitably converge to them (but rather leave values more indistinguishable and arbitrary)._
+I generally like to refer to their Orthogonality Thesis as the most rigorous reformulation and baseline argument for the [value-nihilist claim](https://rechelon.github.io/2016/05/10/nihilism-a-lie-in-service-to-the-existing/): _Thinking about things more will not incline minds to certain values or cause them to inevitably converge to them (but rather leave values more indistinguishable and arbitrary)._
 
 In its defense, the space of possible minds is indeed very very big. And just about everyone could do to cultivate a much deeper appreciation for this. But I think the degree to which the Orthogonality Thesis is widely accepted in rationalist circles overreaches. In part because it&#8217;s way too easy to just handwave at the definition of &#8220;intelligence&#8221; and &#8220;minds.&#8221; But further, just because a state exists within a space doesn&#8217;t mean it&#8217;s stable or occupies more than an infinitesimal of the probability space. There are, for example, utility functions that do not in any remote sense coherently map onto the physics of our universe. Minds/algorithms that carry these utility functions will simply not function in the sense of processing information in a meaningful way, and will certainly not accomplish their aims. It&#8217;s conceptually inefficient and pretty useless to refer to such as &#8220;minds.&#8221; Physics, mathematics, and computer science sharply &#8212; if statistically &#8212; constrain the space of possible minds.
 

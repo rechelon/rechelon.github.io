@@ -4,7 +4,7 @@ title: When Your Partner Advocates for the Devil
 date: 2015-05-31T01:36:29+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1694
+guid: http://rechelon.github.io/?p=1694
 permalink: /2015/05/31/when-your-partner-advocates-for-the-devil/
 hidden:
   - 0

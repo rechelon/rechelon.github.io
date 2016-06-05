@@ -4,7 +4,7 @@ title: 'Highly Derivative: Accelerationism’s Inability to Make a Clean Break'
 date: 2015-08-08T18:21:30+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1715
+guid: http://rechelon.github.io/?p=1715
 permalink: /2015/08/08/highly-derivative-accelerationisms-inability-to-make-a-clean-break/
 hidden:
   - 0

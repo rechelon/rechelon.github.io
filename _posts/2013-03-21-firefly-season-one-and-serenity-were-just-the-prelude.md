@@ -4,7 +4,7 @@ title: 'Firefly: Season One And Serenity Were Just The Prelude'
 date: 2013-03-21T17:47:17+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1384
+guid: http://rechelon.github.io/?p=1384
 permalink: /2013/03/21/firefly-season-one-and-serenity-were-just-the-prelude/
 categories:
   - 'Fiction &amp; Culture'
@@ -15,7 +15,7 @@ I will always remember the first time I paused while flicking through channels a
 
 However.
 
-That doesn&#8217;t mean it isn&#8217;t fun to consider the possibilities and the recent successful Kickstarter campaign for a Veronica Mars movie certainly set off quite a lot of chatter. What surprised me the most though were those who felt the story was finished and that any continuation would have to resort to the dark magic of prequeling, retconning or rebooting. That&#8217;s patently ludicrous and I feel it warrants a moment&#8217;s response. (Also&#8211;in a slightly more self-serving vein&#8211;the years have taught me that nothing revitalizes one&#8217;s writing like tapping into some geek righteousness. Spend months crafting a very compassionately nuanced and analytical [exploration of objectification and pornography](http://humaniterations.net/2012/01/26/objectification-pornography/), get ten reads; feverishly slobber off some [drelk on Star Wars](http://humaniterations.net/2011/09/19/how-star-wars-should-have-ended-reflections-on-taste-the-expanded-universe-radical-politics/), get ten thousand a day. And while I don&#8217;t have any illusions about the odds of striking readership gold again, that kind of piece always breaks my writer&#8217;s perfectionism and boy could I use a hand there again.)
+That doesn&#8217;t mean it isn&#8217;t fun to consider the possibilities and the recent successful Kickstarter campaign for a Veronica Mars movie certainly set off quite a lot of chatter. What surprised me the most though were those who felt the story was finished and that any continuation would have to resort to the dark magic of prequeling, retconning or rebooting. That&#8217;s patently ludicrous and I feel it warrants a moment&#8217;s response. (Also&#8211;in a slightly more self-serving vein&#8211;the years have taught me that nothing revitalizes one&#8217;s writing like tapping into some geek righteousness. Spend months crafting a very compassionately nuanced and analytical [exploration of objectification and pornography](http://rechelon.github.io/2012/01/26/objectification-pornography/), get ten reads; feverishly slobber off some [drelk on Star Wars](http://rechelon.github.io/2011/09/19/how-star-wars-should-have-ended-reflections-on-taste-the-expanded-universe-radical-politics/), get ten thousand a day. And while I don&#8217;t have any illusions about the odds of striking readership gold again, that kind of piece always breaks my writer&#8217;s perfectionism and boy could I use a hand there again.)
 
 Honestly I see Serenity as the perfect launching point for a really solid series and/or sequels. Here&#8217;s how Firefly continues in my head:
 

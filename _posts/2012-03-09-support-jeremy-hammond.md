@@ -4,7 +4,7 @@ title: The Arrest of Jeremy Hammond
 date: 2012-03-09T18:31:50+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1350
+guid: http://rechelon.github.io/?p=1350
 permalink: /2012/03/09/support-jeremy-hammond/
 hidden:
   - 1

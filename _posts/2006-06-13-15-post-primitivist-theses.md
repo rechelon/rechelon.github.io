@@ -4,7 +4,7 @@ title: 15 Post-Primitivist Theses
 date: 2006-06-13T18:16:50+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1515
+guid: http://rechelon.github.io/?p=1515
 permalink: /2006/06/13/15-post-primitivist-theses/
 hidden:
   - 1
@@ -645,7 +645,7 @@ Those who remember the past are doomed to repeat it. Those who get wrapped up in
 
 ### Additional Followup
 
-[How and why Jason Godesky is so wrong his ancestors are wrong](http://humaniterations.net/2007/06/13/how-and-why-jason-godesky-is-so-wrong-his-ancestors-are-wrong/)
+[How and why Jason Godesky is so wrong his ancestors are wrong](http://rechelon.github.io/2007/06/13/how-and-why-jason-godesky-is-so-wrong-his-ancestors-are-wrong/)
 
 ### Afterword
 

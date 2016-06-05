@@ -4,13 +4,13 @@ title: An Anarchist Perspective on the Red Lotus
 date: 2014-10-13T07:20:18+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1554
+guid: http://rechelon.github.io/?p=1554
 permalink: /2014/10/13/an-anarchist-perspective-on-the-red-lotus/
 categories:
   - 'Fiction &amp; Culture'
 ---
 <div id="attachment_1555" style="width: 660px" class="wp-caption alignnone">
-  <img class="wp-image-1555 size-full" src="http://humaniterations.net/wp-content/uploads/2014/10/ZaheernPli.png" alt="ZaheernPli" width="650" />
+  <img class="wp-image-1555 size-full" src="http://rechelon.github.io/wp-content/uploads/2014/10/ZaheernPli.png" alt="ZaheernPli" width="650" />
   
   <p class="wp-caption-text">
     &#8220;After this there&#8217;ll be no more prisons.&#8221; Oh god how I wish.
@@ -24,7 +24,7 @@ While members of the Red Lotus are humanized to a shocking and delightful degree
 Which is sad because as they&#8217;re written&#8211;however inadvertently&#8211;I think there&#8217;s a strong case that the Red Lotus are the best damn heroes in the entire history of the Avatar universe.
 
 <div id="attachment_1574" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1574" src="http://humaniterations.net/wp-content/uploads/2014/10/letsbebadguys.png" alt="&quot;Let's be good guys.&quot;" width="650" />
+  <img class="size-full wp-image-1574" src="http://rechelon.github.io/wp-content/uploads/2014/10/letsbebadguys.png" alt="&quot;Let's be good guys.&quot;" width="650" />
   
   <p class="wp-caption-text">
     &#8220;Let&#8217;s be good guys.&#8221;
@@ -38,7 +38,7 @@ The central issue in the Avatar universe&#8211;and indeed in almost all fantasy 
 Of course we need tropes to guide us as an audience and pulling from the array of profoundly different cultures found in anthropology (like the Australian Aborigines) would be too sharply alien. But magical sentient spirits and flavored martial-telekinesis are no small detail and the impact of their existence is never fully felt in the Avatar universe. I&#8217;m not sure if we can speak substantively of ethics in relation to sentient magical creatures/spirits, there&#8217;s just too many unknown unknowns, and so I&#8217;ll largely avoid it in my analysis. But bending is often treated as a technology in the Avatar universe and I generally think that&#8217;s most useful lens.
 
 <div id="attachment_1571" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1571" src="http://humaniterations.net/wp-content/uploads/2014/10/pli.png" alt="Magic is almost always ethically problematic." width="650" />
+  <img class="size-full wp-image-1571" src="http://rechelon.github.io/wp-content/uploads/2014/10/pli.png" alt="Magic is almost always ethically problematic." width="650" />
   
   <p class="wp-caption-text">
     Magic is almost always ethically problematic when it&#8217;s not translatable to technology. This is related to the ontological update problem: Any motivational or ethical framework assumes certain things about how physics works.
@@ -54,7 +54,7 @@ The division between benders and non-benders is as intensely unethical as any pr
 When someone has a physical or cognitive capacity that others do not the resulting social relationship can feedback through numerous means of loose pressures or explicit exploitation and domination into less and less real freedoms for those without. There are basically two ways to respond, either stripping this person of their advanced capacities and/or reigning them in to some arbitrary baseline, OR by changing cultural norms and working diligently to better leak those advanced capacities out to everyone. The first approach, in which the tallest flowers are cut down and sent off to wilt in Siberia has some kneejerk proponents among state communists and primitivists. But it must be admitted that the latter isn&#8217;t always easy. And sometimes it isn&#8217;t practically possible to detangle power obtained through oppression from individual capacity obtained independently.
 
 <div id="attachment_1581" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1581" src="http://humaniterations.net/wp-content/uploads/2014/10/buyournewspapers.jpg" alt="Buy our newspaper." width="650" />
+  <img class="size-full wp-image-1581" src="http://rechelon.github.io/wp-content/uploads/2014/10/buyournewspapers.jpg" alt="Buy our newspaper." width="650" />
   
   <p class="wp-caption-text">
     &#8220;Buy our newspaper.&#8221;
@@ -68,7 +68,7 @@ Now the Equalist approach was I think clearly unethical, a prime example of cutt
 &#8230;But at the same time relative inequality is certainly not of _zero_ concern and it _is_ arguably possible for the risks to everyone&#8217;s freedom to outweigh the exceptional freedom provided to a single person.
 
 <div id="attachment_1576" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1576" src="http://humaniterations.net/wp-content/uploads/2014/10/nuke.png" alt="When the talents granted to a single person by birth alone gives them the capacity to tun unto a vengeful god that... matters." width="650" />
+  <img class="size-full wp-image-1576" src="http://rechelon.github.io/wp-content/uploads/2014/10/nuke.png" alt="When the talents granted to a single person by birth alone gives them the capacity to tun unto a vengeful god that... matters." width="650" />
   
   <p class="wp-caption-text">
     When the talents granted a single person by birth alone gives them the capacity to tun unto a vengeful god that&#8230; matters.
@@ -84,7 +84,7 @@ Of course one can read both as merely an issue of acting timidly within the cons
 Which is all to say that while I enthusiastically support the Red Lotus&#8217;s desire to overthrow the world&#8217;s governments and plant the seeds for a freer world to flourish, I&#8217;m conflicted about Zaheer&#8217;s plan to kill the Avatar permanently.
 
 <div id="attachment_1568" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1568" src="http://humaniterations.net/wp-content/uploads/2014/10/zaheerandpli5ever.png" alt="5ever" width="650" />
+  <img class="size-full wp-image-1568" src="http://rechelon.github.io/wp-content/uploads/2014/10/zaheerandpli5ever.png" alt="5ever" width="650" />
   
   <p class="wp-caption-text">
     Maybe a little more brainstorming instead of being cute.
@@ -104,7 +104,7 @@ Korra grew up into a complex and realistically many-faceted young adult, and the
 Sadly there seems to be some hedging even within Zaheer&#8217;s statements, &#8220;True freedom can only be achieved when oppressive governments are thrown down.&#8221; Of course he could have used the redundancy of &#8220;oppressive governments&#8221; just to be more clear before Korra, but it&#8217;s telling how corrupted she is by her proximity to political power that she recoils from even this anodyne statement.
 
 <div id="attachment_1560" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1560" src="http://humaniterations.net/wp-content/uploads/2014/10/RedLotusHeroes.png" alt="&quot;All I wanted was to show the Avatar a better path for the world.&quot;" width="650" />
+  <img class="size-full wp-image-1560" src="http://rechelon.github.io/wp-content/uploads/2014/10/RedLotusHeroes.png" alt="&quot;All I wanted was to show the Avatar a better path for the world.&quot;" width="650" />
   
   <p class="wp-caption-text">
     &#8220;All I wanted was to show the Avatar a better path for the world.&#8221;
@@ -122,7 +122,7 @@ Yet I&#8217;m ultimately for the responsible proliferation of greater personal c
 In asking whether that&#8217;s possible within the Avatarverse we press up against the limits of what can be reliably said here because of the mystery of the spirits. It could be that for some random magic reason only Raava and Vaatu can grant the kind of abilities the Avatar possesses. And not say our pekingese friend.
 
 <div id="attachment_1558" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1558" src="http://humaniterations.net/wp-content/uploads/2014/10/KorraCuddleSpirit.png" alt="&quot;Bind with me and become an Avatar of cuddles!&quot;" width="650" />
+  <img class="size-full wp-image-1558" src="http://rechelon.github.io/wp-content/uploads/2014/10/KorraCuddleSpirit.png" alt="&quot;Bind with me and become an Avatar of cuddles!&quot;" width="650" />
   
   <p class="wp-caption-text">
     &#8220;Bind with me and become an Avatar of cuddles!&#8221;
@@ -146,7 +146,7 @@ It&#8217;s on this landscape that Zaheer, Ghazan, Ming-Hua, and P&#8217;Li decid
 Killing Korra feels a bit left-field but I can understand feeling it a strategic necessity.
 
 <div id="attachment_1562" style="width: 660px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1562" src="http://humaniterations.net/wp-content/uploads/2014/10/Zaheersosad.png" alt="So sad." width="650" />
+  <img class="size-full wp-image-1562" src="http://rechelon.github.io/wp-content/uploads/2014/10/Zaheersosad.png" alt="So sad." width="650" />
   
   <p class="wp-caption-text">
     Infinite sadness all around.

@@ -4,7 +4,7 @@ title: Trust Feedback Loops In Situations of Forced Consumption
 date: 2012-01-22T01:25:46+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1064
+guid: http://rechelon.github.io/?p=1064
 permalink: /2012/01/22/feedback-i-bet-you-didnt-know-its-a-thing/
 hidden:
   - 1

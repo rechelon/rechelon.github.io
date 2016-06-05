@@ -5,7 +5,7 @@ date: 2016-05-15T13:37:47+00:00
 author: rechelon
 excerpt: 'The more means by which people can act the easier attack becomes and the harder defense becomes. It’s a simple matter of complexity. The attacker only needs to choose one line of attack, the defender needs to secure against all of them. This isn’t just true of small thermal exhaust ports, it’s true in our software ecosystems today and any other system with many dimensions of movement. '
 layout: post
-guid: http://humaniterations.net/?p=1939
+guid: http://rechelon.github.io/?p=1939
 permalink: /2016/05/15/the-incoherence-and-unsurvivability-of-non-anarchist-transhumanism/
 hidden:
   - 0

@@ -4,7 +4,7 @@ title: Scarce Or Abundant, Nothing About Love Should Be Casual
 date: 2014-01-27T18:19:16+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1461
+guid: http://rechelon.github.io/?p=1461
 permalink: /2014/01/27/scarce-or-abundant-nothing-about-love-should-be-casual/
 hidden:
   - 0

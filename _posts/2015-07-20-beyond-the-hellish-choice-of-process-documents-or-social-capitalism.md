@@ -4,7 +4,7 @@ title: Beyond the Hellish Choice of Process Documents or Social Capitalism
 date: 2015-07-20T22:44:38+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1790
+guid: http://rechelon.github.io/?p=1790
 permalink: /2015/07/20/beyond-the-hellish-choice-of-process-documents-or-social-capitalism/
 hidden:
   - 0

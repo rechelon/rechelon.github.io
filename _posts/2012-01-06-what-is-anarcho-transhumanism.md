@@ -11,7 +11,7 @@ hidden:
 categories:
   - 'Futurism &amp; Transhumanism'
 ---
-<img src="http://humaniterations.net/wp-content/uploads/2015/05/anarchotranshumanism.jpg" alt="" width="650" border="1" />
+<img src="http://rechelon.github.io/wp-content/uploads/2015/05/anarchotranshumanism.jpg" alt="" width="650" border="1" />
 
 Anarcho-Transhumanism is the recognition that social liberty is inherently bound up with material liberty, and that freedom is ultimately a matter of expanding our capacity and opportunities to engage with the world around us. It is the realization that our resistance against those social forces that would subjugate and limit us is but part of a spectrum of efforts to expand human agency—to facilitate our inquiry and creativity.
 

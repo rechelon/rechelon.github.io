@@ -4,7 +4,7 @@ title: 'Objectification &#038; Pornography'
 date: 2012-01-26T12:26:57+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1066
+guid: http://rechelon.github.io/?p=1066
 permalink: /2012/01/26/objectification-pornography/
 hidden:
   - 0
@@ -31,7 +31,7 @@ I should note that at its greatest extreme this can even mean rejecting _all_ s
 
 What we can still at least conclude is that sexual titillation by compassion, mathematical aptitude, or say pine trees clearly wouldn&#8217;t involve preferences directed at anyone else&#8217;s body. There are still valid concerns to be had about the preformative aspect of mental actions (&#8216;_dance monkey dance_&#8216; is obviously objectifying in any form), but I think we&#8217;ve clearly achieved enough distance from concerns about objectification to stop and take a look back. Does this resemble what hardline opponents of pornography within feminism are actually saying?
 
-In almost every case, no. (The exceptions, insofar as they&#8217;re honest about it, are really cool. But again as above I will avoid exploring that direction in depth here for space.) Instead it&#8217;s almost universally conceded that the biological prompts of sexual desire are just too strong overall. We get turned on by certain forms of touch and smell for example without conscious choice. There are a wealth of hardwired physiological circuits capable of triggering chemical responses. Some, possibly even all, can be fiddled with or cut but the effort required can be functionally unfeasible and there are a multitude of them. That&#8217;s not, obviously, to throw up our hands in surrender ([some of us are transhumanists after all](http://humaniterations.net/2011/09/21/the-floating-metal-sphere-trump-card/)). But it does generally seem to prescribe a certain pragmatism towards sexual desire that allows us to embrace the positives while staying alert to the negatives. It&#8217;s okay, in short, to do things like turn one&#8217;s focus to a lover&#8217;s body or fantasize about a fictional character or imagine what a certain experience would be like.
+In almost every case, no. (The exceptions, insofar as they&#8217;re honest about it, are really cool. But again as above I will avoid exploring that direction in depth here for space.) Instead it&#8217;s almost universally conceded that the biological prompts of sexual desire are just too strong overall. We get turned on by certain forms of touch and smell for example without conscious choice. There are a wealth of hardwired physiological circuits capable of triggering chemical responses. Some, possibly even all, can be fiddled with or cut but the effort required can be functionally unfeasible and there are a multitude of them. That&#8217;s not, obviously, to throw up our hands in surrender ([some of us are transhumanists after all](http://rechelon.github.io/2011/09/21/the-floating-metal-sphere-trump-card/)). But it does generally seem to prescribe a certain pragmatism towards sexual desire that allows us to embrace the positives while staying alert to the negatives. It&#8217;s okay, in short, to do things like turn one&#8217;s focus to a lover&#8217;s body or fantasize about a fictional character or imagine what a certain experience would be like.
 
 So what then is such a _fundamental_ problem with pornography?
 

@@ -4,7 +4,7 @@ title: The Freed Market
 date: 2007-02-17T06:45:14+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1535
+guid: http://rechelon.github.io/?p=1535
 permalink: /2007/02/17/the-freed-market/
 hidden:
   - 1

@@ -4,7 +4,7 @@ title: 'The Only Eulogy I&#8217;m Writing Is The State&#8217;s'
 date: 2012-05-03T21:32:48+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1368
+guid: http://rechelon.github.io/?p=1368
 permalink: /2012/05/03/the-only-eulogy-im-writing-is-the-states/
 hidden:
   - 1

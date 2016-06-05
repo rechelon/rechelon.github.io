@@ -4,14 +4,14 @@ title: How To Fix The Force Awakens
 date: 2016-03-26T19:38:41+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1898
+guid: http://rechelon.github.io/?p=1898
 permalink: /2016/03/26/how-to-fix-the-force-awakens/
 hidden:
   - 0
 categories:
   - 'Fiction &amp; Culture'
 ---
-<img class="alignnone size-full wp-image-1901" src="http://humaniterations.net/wp-content/uploads/2016/03/3.png" alt="3" width="650" />
+<img class="alignnone size-full wp-image-1901" src="http://rechelon.github.io/wp-content/uploads/2016/03/3.png" alt="3" width="650" />
 
 I think I&#8217;ve figured out how to salvage The Force Awakens. Don&#8217;t get me wrong, it&#8217;s a good movie, a damn fun and refreshing movie, but it&#8217;s widely acknowledge to still have deep problems, especially in the second half. Surprisingly there&#8217;s basically one change that I think could have turned it into a great movie.
 
@@ -29,7 +29,7 @@ With the destruction of Hosnian Prime moved back to the final act there&#8217;s 
 
 There&#8217;s really no point in having the Hosnian system be destroyed while our heroes are on Takodana. Rey has her force-vision and runs away, Finn is about to depart and then the version of The Force Awakens we got has _two_ things happen at once: Starkiller Base fires and Kylo&#8217;s forces descend on Maz&#8217;s castle. Only one of those is really necessary. All Finn needs as motivation to turn around and seek Rey is the First Order attacking Maz&#8217;s castle and thus directly putting her in danger.
 
-<img class="alignnone size-full wp-image-1900" src="http://humaniterations.net/wp-content/uploads/2016/03/2.png" alt="2" width="650" />
+<img class="alignnone size-full wp-image-1900" src="http://rechelon.github.io/wp-content/uploads/2016/03/2.png" alt="2" width="650" />
 
 Further the scene where Finn and others look up and see distant exploding planets has widely been noted as profoundly insulting to the audience. Star Wars has an explicit speed of light and that doesn&#8217;t let you immediately see what happens on planets half a galaxy away by merely looking up in the sky on a different planet in a different system. This scene is hot garbage. JJ has done this kind of shit before (putting Spock on another distant planet where somehow he can see Vulcan be destroyed in the sky with his bare eyes), and he got hate for it. JJ doing it again is just flagrant disrespect.
 
@@ -41,7 +41,7 @@ This disruption &#8212; the beginning of the draining of a star &#8212; could be
 
 What this enables is scenes with Leia trying to contact the Republic to warn them. This is where the Republic refusing to deal with her and the difference between the mighty Republic and the weak Resistance can actually be shown to the audience. Leia can try to contact with a hologram and get the runaround and rejection by senators or bureaucrats. Think of her talking to a sympathetic senator who&#8217;s helped shield her from other factions in the Republic and finance her little Resistance but who feels like she can do no more, and relaying Leia&#8217;s fears to the Senate would mean openly admitting being in contact with Leia. &#8220;But this superweapon could destroy the Republic!&#8221; &#8220;They&#8217;d arrest me rather than hear from you.&#8221; You could also imagine her contacting the admiral of the mighty Republic fleet &#8212; and this would be a great moment for Ackbar to appear and actually be a character, someone sympathetic, but tied down by his leadership role. And maybe he does get a few ships away, or presses for evacuation, but it&#8217;s too late in the final act. Alternately you could have Leia send a delegate to try and convince people to evacuate, and ultimately have her die on the planet, after periodically cutting to her efforts to save folks during the rest of last acts.
 
-<img class="alignnone size-full wp-image-1899" src="http://humaniterations.net/wp-content/uploads/2016/03/1.png" alt="1" width="650" />
+<img class="alignnone size-full wp-image-1899" src="http://rechelon.github.io/wp-content/uploads/2016/03/1.png" alt="1" width="650" />
 
 Leia thus emerges more clearly as a Cassandra character and her Resistance is situated clearly against a New Republic that is happy to keep a treaty with the remnants of the Empire. And then the end of the film involves her both being right, to hideous consequences, as well as losing Han.
 

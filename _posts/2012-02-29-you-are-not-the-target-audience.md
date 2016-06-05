@@ -4,7 +4,7 @@ title: You Are Not The Target Audience
 date: 2012-02-29T15:59:12+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1269
+guid: http://rechelon.github.io/?p=1269
 permalink: /2012/02/29/you-are-not-the-target-audience/
 geo_public:
   - 0

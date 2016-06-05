@@ -4,7 +4,7 @@ title: Anarchy Is A Scale-Independent Proposition
 date: 2015-04-17T21:19:27+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1643
+guid: http://rechelon.github.io/?p=1643
 permalink: /2015/04/17/anarchy-is-a-scale-independent-proposition/
 hidden:
   - 0

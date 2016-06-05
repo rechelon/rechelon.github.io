@@ -4,7 +4,7 @@ title: You Don’t Hate The World
 date: 2016-05-09T14:23:45+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1945
+guid: http://rechelon.github.io/?p=1945
 permalink: /2016/05/09/you-dont-hate-the-world/
 hidden:
   - 0

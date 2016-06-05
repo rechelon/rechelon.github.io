@@ -4,7 +4,7 @@ title: 'Why Anarchism? A Love Letter To Our Doubters, Burnouts, Expats, &#038; R
 date: 2013-12-12T19:14:48+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1434
+guid: http://rechelon.github.io/?p=1434
 permalink: /2013/12/12/why-anarchism-a-love-letter-to-our-doubters-burnouts-expats-refugees/
 hidden:
   - 0

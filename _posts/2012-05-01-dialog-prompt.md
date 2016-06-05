@@ -4,7 +4,7 @@ title: 'Human Machine Interaction: A Dialog Prompt'
 date: 2012-05-01T10:46:19+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1360
+guid: http://rechelon.github.io/?p=1360
 permalink: /2012/05/01/dialog-prompt/
 categories:
   - Stray Thoughts

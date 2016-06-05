@@ -4,7 +4,7 @@ title: 'A Quick And Dirty Critique Of Primitivist &#038; AntiCiv Thought'
 date: 2015-10-10T14:01:09+00:00
 author: rechelon
 layout: post
-guid: http://humaniterations.net/?p=1798
+guid: http://rechelon.github.io/?p=1798
 permalink: /2015/10/10/a-quick-and-dirty-critique-of-primitivist-anticiv-thought/
 hidden:
   - 0
@@ -12,10 +12,10 @@ categories:
   - Internal Debate
 ---
 <div id="attachment_1820" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://humaniterations.net/wp-content/uploads/2015/10/cover_image.jpg"><img class="wp-image-1820" src="http://humaniterations.net/wp-content/uploads/2015/10/cover_image.jpg" alt="" width="400" height="618" /></a>
+  <a href="http://rechelon.github.io/wp-content/uploads/2015/10/cover_image.jpg"><img class="wp-image-1820" src="http://rechelon.github.io/wp-content/uploads/2015/10/cover_image.jpg" alt="" width="400" height="618" /></a>
   
   <p class="wp-caption-text">
-    This text is available in <a href="http://humaniterations.net/wp-content/uploads/primitivism.epub">ebook format</a> and as a zine <a href="http://humaniterations.net/wp-content/uploads/2015/10/prim-lat.pdf">formatted for printing</a>.
+    This text is available in <a href="http://rechelon.github.io/wp-content/uploads/primitivism.epub">ebook format</a> and as a zine <a href="http://rechelon.github.io/wp-content/uploads/2015/10/prim-lat.pdf">formatted for printing</a>.
   </p>
 </div>
 
@@ -27,7 +27,7 @@ And gradually, slowly, I started to recognize other dynamics at play, other poss
 
 The same insatiable love for the natural universe that prompted me to fall in love with the forests of Cascadia ended up taking me to theoretical physics. And when I look back at primitivism what I see now seems ever more cold and unrecognizable. Bros chortling about and encouraging the death of billions. Open anti-intellectualism and unbelievably shoddy arguments. Awkward ethical frameworks as well as misunderstandings of anthropological and archaeological records. There are exceptions to be sure &#8212; the occasional intellectually vigilant, analytic and sincere individual burnt out and hedging her bets. But Primitivism as a whole? I don&#8217;t see the arrival of authoritarian psuedo-Maoist cults, John retreating to openly embrace &#8220;spiritualism&#8221;, and murderous idiots who think lobbing the term &#8220;modernism&#8221; is a meaningful argument, are disconnected from the underlying rot.
 
-[I wrote on this subject a decade ago](http://humaniterations.net/2006/06/13/15-post-primitivist-theses/), but my approaches were directed at the theoretical formulations of primitivism I found most substantive at the time. For whatever reason &#8212; and perhaps for the worse &#8212; those currents have since mostly died out. Today the landscape is even more ideologically fractured and many have retreated to a nebulous &#8220;anti-civ&#8221; position that inherits most of the primitivist framework while remaining loose enough to duck most criticism. But while those identify as anti-civ may individually break with _some_ aspects of primitivism, without _any_ of the frameworks or narratives of primitivism, there wouldn&#8217;t be an anti-civ position to speak.
+[I wrote on this subject a decade ago](http://rechelon.github.io/2006/06/13/15-post-primitivist-theses/), but my approaches were directed at the theoretical formulations of primitivism I found most substantive at the time. For whatever reason &#8212; and perhaps for the worse &#8212; those currents have since mostly died out. Today the landscape is even more ideologically fractured and many have retreated to a nebulous &#8220;anti-civ&#8221; position that inherits most of the primitivist framework while remaining loose enough to duck most criticism. But while those identify as anti-civ may individually break with _some_ aspects of primitivism, without _any_ of the frameworks or narratives of primitivism, there wouldn&#8217;t be an anti-civ position to speak.
 
 Core to the term &#8220;anti-civ&#8221; itself is a sweeping impression of &#8220;civilization&#8221; that is intensely problematic and lends itself to overly simplistic narratives. Primitivism is rife with this kind of irreductionist handwaving that dreams up big monsters from loose associations and gives them agency as magical forces acting on the macroscale, shaping every particular. Following an approach that Ellul openly termed &#8220;monism&#8221;, primitivism refuses to pick these spooks apart, to recognize any conflict between or latitude in the configuration of their constituent dynamics. Everything is seen as inextricably woven into a whole that acts according to a simple narrative. Such a conspiratorial mode of thought is basically just a doubling down on Marxism, replacing &#8220;capitalism&#8221; with _even broader and more abstract monsters_ of &#8220;technology&#8221; and &#8220;civilization&#8221;. These tales are often explicitly anti-radical in their disdain for getting at the root components.
 
