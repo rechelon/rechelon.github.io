@@ -6,7 +6,7 @@ author: rechelon
 layout: page
 guid: http://humaniterations.wordpress.com/?page_id=83
 ---
-<img class="alignnone size-full wp-image-1501" src="http://humaniterations.net/wp-content/uploads/2009/12/run.jpg" alt="run" width="650" />
+<img class="alignnone size-full wp-image-1501" src="/wp-content/uploads/2009/12/run.jpg" alt="run" width="650" />
 
 <p style="padding-left: 30px; text-align: left;">
   The freedom of all is essential to my freedom. I am truly free only when all human beings, men and women, are equally free. The freedom of other men, far from negating or limiting my freedom, is, on the contrary, its necessary premise and confirmation.
@@ -116,7 +116,7 @@ guid: http://humaniterations.wordpress.com/?page_id=83
   <a href="http://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works">&#8220;Anarchy Works&#8221;</a> &#8211; Peter Gelderloos, 2010
 </p>
 
-<img class="alignnone size-full wp-image-1506" src="http://humaniterations.net/wp-content/uploads/2009/12/IMG_3763.jpg" alt="IMG_3763" width="650" />
+<img class="alignnone size-full wp-image-1506" src="/wp-content/uploads/2009/12/IMG_3763.jpg" alt="IMG_3763" width="650" />
 
 <h1 style="text-align: center;">
   <span style="text-decoration: underline;">Theory</span>
@@ -162,4 +162,4 @@ guid: http://humaniterations.wordpress.com/?page_id=83
   Writings on conflict mediation mechanisms in societies with polycentric social norms and arbitration courts. <a href="http://www.amazon.com/Anarchy-Law-Political-Economy-Independent/dp/1412805791">amazon</a> | <a href="http://www.independent.org/store/book.asp?id=67">direct purchase</a>
 </p>
 
-<img class="alignnone size-full wp-image-1506" src="http://humaniterations.net/wp-content/uploads/2009/12/21.jpg" alt="" width="650" />
+<img class="alignnone size-full wp-image-1506" src="/wp-content/uploads/2009/12/21.jpg" alt="" width="650" />

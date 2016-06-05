@@ -6,7 +6,7 @@ author: rechelon
 layout: page
 guid: http://93.95.228.20/?page_id=5
 ---
-<img class="alignnone size-full wp-image-1839" src="http://humaniterations.net/wp-content/uploads/2009/06/screen1.png" alt="screen1" width="650" />
+<img class="alignnone size-full wp-image-1839" src="/wp-content/uploads/2009/06/screen1.png" alt="screen1" width="650" />
 
 William Gillis is a [second generation](http://humaniterations.net/2013/11/08/ted-w-gillis-1931-2013/) anarchist activist. He studies high energy theoretical physics and tends to live at any given time in either Portland or Oakland.
 
