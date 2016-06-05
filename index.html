@@ -14,8 +14,8 @@ layout: default
 
 
   <div class="category-list">
-
-   {% for category in site.categories %}
+    {% assign sorted_cats = site.categories | sort %}
+   {% for category in sorted_cats %}
         <h2 class="home-cats">{{ category | first }}</h2>
     {% for posts in category %}
         <ul>
