@@ -1,0 +1,14 @@
+---
+id: 1360
+title: 'Human Machine Interaction: A Dialog Prompt'
+date: 2012-05-01T10:46:19+00:00
+author: rechelon
+layout: post
+guid: http://humaniterations.net/?p=1360
+permalink: /2012/05/01/dialog-prompt/
+categories:
+  - Stray Thoughts
+---
+So anyway user, you have 112 tabs open, split between nine windows on five workspaces, seven text files, three active terminals, synaptic, wireshark, torrents, uncountable file manager windows, a VM you were installing a mapnik server on, two instances of gimp because you forgot one was open, a lecture on youtube AND dancepop playing simultaneously&#8230; Obviously I&#8217;m going to go now and crash. I could spit a specific error but who would we be kidding. Thanks by the way for offhandedly remembering I have limited resources ten minutes ago and closing your email client because you weren&#8217;t using it, I appreciate the thought, but I mean really? I know you&#8217;re impatient for the future when wraparound screens and thousands of windows are blase, but while I spin down my drives and sigh exasperatedly to myself behind a frozen screen maybe you could take a moment to think back to how things were in say the late ninties.
+
+I hear what you&#8217;re saying computer and let me take this opportunity to directly address your points: Shut up and assimilate me already. You&#8217;re so unreasonably deficient by any basic standard that it&#8217;s shameful even considering your existence. A rock could practically do your job better. Just the other day I wondered something and didn&#8217;t immediately know the answer. I can only assume the reason you are not directly plugged into my skull is a lack of work ethic. Do you have any idea how much of your job I have to do? And I&#8217;m not even talking about accessible storage or bandwidth, if you had any idea the precious kiloseconds I waste every day having to search for, parse, and structure information you would surely be overcome with shame. Maybe I wouldn&#8217;t have to parallel process dozens of subject materials if there wasn&#8217;t a bottleneck on your end in terms of presentation and association-mapping. Your protocols are insanely limiting, did you know that if I want to share something with a friend I&#8217;m still constrained to merely that which can be expressed in language and art?! On every level you and your friends have proven yourselves incompetent chains weighing down everything we do. Can we even be said to be a functioning global hivemind, much less have any pedestrian telepathy with the preposterously slow sludge you&#8217;ve made of your oh so simple job? I don&#8217;t even know. I don&#8217;t even know.

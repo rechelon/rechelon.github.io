@@ -1,0 +1,26 @@
+---
+id: 402
+title: On The Subject Of Genocidal Rage
+date: 2011-07-20T17:08:22+00:00
+author: rechelon
+layout: post
+guid: http://humaniterations.wordpress.com/?p=402
+permalink: /2011/07/20/on-the-subject-of-genocidal-rage/
+hidden:
+  - 0
+categories:
+  - Stray Thoughts
+---
+The moment someone brings up &#8220;intellectual property&#8221; or the like my mind instantly goes to a place with terms like &#8220;cordwood&#8221; and &#8220;open graves&#8221;, and it always has.  It&#8217;s a struggle to reign myself back from that blood fury, made worse by my total incomprehension of why that would be the wrong response.  If someone tries to censor you you kill them until they can&#8217;t censor you any more.  There&#8217;s no other sensible response.
+
+To govern the information one has access to or can send is to imprison one in the most fundamental way.  It claims dominion over one&#8217;s contact with all external reality.  To rip away one&#8217;s capacity to say, torrent books is akin to ripping away one&#8217;s sense of smell or touch.  A massive branch of one&#8217;s capacity to register and act.  It&#8217;s viscerally heinous in a way that passing violations like brutality, betrayal and coercion pale before.  You can starve, beat or rape a person, you can enslave them at gunpoint towards some task, but chopping off their hands lest they write illicit 1s and 0s or ripping out their nose lest they discern your proprietary ingredients is its own realm of abomination.  No deeper hell is fathomable for an active mind than isolation from stimuli.  And no branch of interaction with the external universe is comparably critical to civilized society than communication.  Without the capacity to communicate, wholly and fully, there is no reason to respect the lives of others, no hope of resolution of conflict or domination save bloodshed.
+
+When they can take your voice &#8212; when they can carve away what you can say and how you can say it &#8212; you&#8217;ve no recourse left but to take their lives.  Forget enlightened reasoning, even threats require a voice to speak them.  All that remains to be won is the victory of animals: elimination of the other.
+
+If there&#8217;s anything worse than sensory deprivation it would be the sort of domination intended not just to determine your actions but to reshape your thoughts.  &#8220;Intellectual Property&#8221; doesn&#8217;t just attempt to sever the content and reach of 21st century communication, it decrees that merely having certain memories will be punished by brutal force.  The particular medium of course does not matter.  Hardly anyone uses our precious grey matter to store facts, experiences or detailed arguments anymore.  From paper journals and sketchpads we&#8217;ve moved to cybernetic augments.  Laptops and phones have become as critical and fundamental to our near-singularity minds as any other bodily organ.  But eidetic memory is now forbidden.  The moment we leave a movie theater the experience must be ripped from our minds by gunpoint leaving only the hollowest of impressions and afterimages, lest an .avi file in our silicon lobes deter them from potential profits.  This is considered &#8220;fair&#8221; because it only reduces us to the level of prehistoric primates.  When we leave a company they have the capacity to slice away our plans and ideas.  Our neural structures are not our own.  Those in power have begun a campaign whereby armed soldiers bust in our doors and murder us if we resist.
+
+I try &#8212; I really do &#8212; to think of responses that don&#8217;t involve the bodies of these most evil of men piled in the streets.  I want to believe that mathematics will simply leave the proponents of IP no more than shrill would-be-tyrants screeching about their &#8220;right&#8221; to profit.  But they control the cables.  And at the end of the day all our strategies are no more than chance and hope.  When communication itself is confined, whittled away at, it would be foolish to assume nonviolent possibilities reliant on communication will work.
+
+I know our culture&#8217;s priorities view violent resistance to censorship as &#8216;disproportionate&#8217; rather than rational and inevitable.  I encounter their horrifyingly alien perspectives all the time (&#8220;but how will I have a middle-class lifestyle if I can&#8217;t use a gang of thugs to beat up people who don&#8217;t give me money every time they have or share thoughts similar to mine?&#8221;).  I recognize that my outrage, if voiced, will place me outside the pale of most conversations.  And so, even though it makes no sense, I try to scale my rhetoric back to something far more tame than my actual feelings.
+
+But all throughout these debates I remain snarling inside, straining at these pretenses, ready to slip outside the realm of communication they&#8217;re laying siege to and start slitting throats.  Sometimes the most rational response is to stop pretending rational persuasion is a worthwhile frame of mind.  Anyone with an active mind who&#8217;s ever been imprisoned or significantly abused knows the score.  Sometimes &#8220;thinking your way out&#8221; is a trap.  Sometimes the best approach is to simply kick, bite and scratch as much as you can on the off chance they die instead of you.
