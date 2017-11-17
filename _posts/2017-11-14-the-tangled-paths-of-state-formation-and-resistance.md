@@ -1,7 +1,7 @@
 ---
 id: 
 title: The Tangled Paths of State Formation and Resistance
-date: 
+date: 2017-11-14T18:16:50+00:00
 author: rechelon
 layout: post
 permalink: /2017/11/14/the-tangled-paths-of-state-formation-and-resistance/
