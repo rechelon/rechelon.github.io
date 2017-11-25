@@ -11,7 +11,7 @@ categories:
 ---
 You know what I love most about the milieu? The level of our discourse.
 
-Magpie Killjoy&#8217;s lobbed [a short trollish broadside](http://birdsbeforethestorm.net/2012/03/markets-not-anarchism-a-panning/) at Markets Not Capitalism calling it &#8220;racist&#8221; and &#8220;disgusting.&#8221; Of course he&#8217;s couched her hodgepodge assembly of emotionally-charged misreads with a few notes about how he has no fundamental objection to market anarchism _per se_ and that many of the views inside Markets Not Capitalism are legitimately anarchist, but nuance doesn&#8217;t bring the pageviews and rallying the troops against teh ancap scourge&#8211;_tendrils to be found in your very collective!_&#8211;does.
+Magpie Killjoy&#8217;s lobbed [a short trollish broadside](http://birdsbeforethestorm.net/2012/03/markets-not-anarchism-a-panning/) at Markets Not Capitalism calling it &#8220;racist&#8221; and &#8220;disgusting.&#8221; Of course she&#8217;s couched her hodgepodge assembly of emotionally-charged misreads with a few notes about how she has no fundamental objection to market anarchism _per se_ and that many of the views inside Markets Not Capitalism are legitimately anarchist, but nuance doesn&#8217;t bring the pageviews and rallying the troops against teh ancap scourge&#8211;_tendrils to be found in your very collective!_&#8211;does.
 
 There&#8217;s not much to work with here but I&#8217;ll throw down for the heck of it, if only because there&#8217;s a thread of reasonableness to her objections, however inaccurately they fit her target. <!--more-->
 
