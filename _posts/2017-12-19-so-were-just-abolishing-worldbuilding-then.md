@@ -12,7 +12,7 @@ categories:
   - Fiction & Culture
 
 ---
-
+![No, it's not like the emperor in the original trilogy, there's been six films)[https://cdn.vox-cdn.com/uploads/chorus_image/image/58022819/Snoke.0.jpg]
 I want to be clear from the outset, The Last Jedi is a great film with intense artistic and entertainment value. And I don't begrudge those who enjoyed the shit out it, not even those reviewers that made snide noises about how they never really liked Star Wars until now. The Last Jedi is a fun and at times moving and original film.
 
 However.
@@ -40,7 +40,7 @@ It's also a abomination that needlessly fucks over Star Wars as a *world* and as
 
  I don't seek to wage war between these two camps. Neither one is objectively better than the other. Both can, ideally, coexist. Some media can be heavier on one or the other, in truly wonderful instances both are strong.
 
-As Julia Galef put it, "having fantastical elements in your world doesn't exempt your plot from obeying the logic *of your own world*. Without internal consistency, you can't have challenges, stakes, & resolutions that feel real and satisfying."
+As Julia Galef [put it](https://twitter.com/juliagalef/status/943272350690115584), "having fantastical elements in your world doesn't exempt your plot from obeying the logic *of your own world*. Without internal consistency, you can't have challenges, stakes, & resolutions that feel real and satisfying."
  
 Personally I enjoy worldbuilding and character, but in different contexts. I think a lot of people these days snap to pictures of the Other Side in this divide as "subhuman autistics" or "shallow hipsters." But there is no objectively superior way to engage with media. Both are valuable frames of mind. Neither should be discarded or disparaged as inferior. Classical music and hip hop, for example, focus on different dynamics, different talents and different ways of experiencing. 
 
@@ -96,6 +96,4 @@ Replaying a halfremembered script from gamergate several critics have tried to s
 
  In isolation The Last Jedi is a great Star Wars film, but it's a terrible entry into Star Wars the whole. Regarding the preposterous world-breaking cartoon of Snoke in particular, but in myriad other respects it invalidates and undermines the prequels, any cohesive structure of the Trilogy Of Trilogies, gives no remote feint at worldbuilding, and generally fractures or cheapens what has gone before.
 
-I don't begrudge Rian Johnson his status as a fan. It's clear he cares about the material, and he has even talked about the steps he took to make The Last Jedi internally coherent as a single film. But to many fans Star Wars films aren't isolated films, they're chapters in a larger story and world. The Last Jedi and The Force Awakens were clearly not created with such in mind, but not only that, they didn't even make token gestures to include fans that care about such things. That's a shame. 
-
-
+I don't begrudge Rian Johnson his status as a fan. It's clear he cares about the material, and he has even talked about the steps he took to make The Last Jedi internally coherent as a single film. But to many fans Star Wars films aren't isolated films, they're chapters in a larger story and world. The Last Jedi and The Force Awakens were clearly not created with such in mind, but not only that, they didn't even make token gestures to include fans that care about such things, they aggressively undermine them. That's a shame.
