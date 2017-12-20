@@ -12,7 +12,7 @@ categories:
   - Fiction & Culture
 
 ---
-![No, it's not like the emperor in the original trilogy, there's been six films)[https://cdn.vox-cdn.com/uploads/chorus_image/image/58022819/Snoke.0.jpg]
+![No, it's not like the emperor in the original trilogy, there's been six films](https://cdn.vox-cdn.com/uploads/chorus_image/image/58022819/Snoke.0.jpg)
 I want to be clear from the outset, The Last Jedi is a great film with intense artistic and entertainment value. And I don't begrudge those who enjoyed the shit out it, not even those reviewers that made snide noises about how they never really liked Star Wars until now. The Last Jedi is a fun and at times moving and original film.
 
 However.
