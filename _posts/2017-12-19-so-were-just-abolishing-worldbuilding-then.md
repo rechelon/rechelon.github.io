@@ -9,7 +9,7 @@ permalink: /2017/12/19/so-were-just-abolishing-worldbuilding-then
 hidden:
   - 0
 categories:
-  - Fiction & Culture
+  - Fiction &amp; Culture
 
 ---
 ![No, it's not like the emperor in the original trilogy, there's been six films](https://cdn.vox-cdn.com/uploads/chorus_image/image/58022819/Snoke.0.jpg =650x)
