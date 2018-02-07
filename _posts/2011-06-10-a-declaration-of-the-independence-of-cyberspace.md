@@ -13,7 +13,7 @@ categories:
 ---
 This is a little half-sheet booklet I put together for the SF Anarchist Bookfair on a lark.  We ended up passing out over 200 copies and being fairly well received.
 
-[<img class="size-full wp-image-383 aligncenter" style="border:1px solid black;" src="https://humaniterations.files.wordpress.com/2011/06/fuckyeahjohnperry.jpg" alt="" width="407" height="312" border="1" />](http://93.95.228.20/wp-content/uploads/2011/06/well-fuck-them.pdf)
+[<img class="size-full wp-image-383 aligncenter" style="border:1px solid black;" src="https://humaniterations.files.wordpress.com/2011/06/fuckyeahjohnperry.jpg" alt="" width="407" height="312" border="1" />](https://humaniterations.net/wp-content/uploads/2011/06/well-fuck-them.pdf)
 
 Cribbing a tad from Cee Lo, I got the idea when John Perry Barlow&#8217;s powerful preamble to [the 1996 Declaration](https://w2.eff.org/Censorship/Internet_censorship_bills/barlow_0296.declaration) recently wandered into my head.
 
