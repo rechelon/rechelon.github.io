@@ -18,7 +18,7 @@ I discovered Star Wars the same way any poor eight-year-old did in the early 90s
 Having turned to the comics section only after exhausting the rest of the stacks, I was knowledgeable enough to recognize the technological trappings as laughable, but gracious enough to appreciate the sly self-effacing shrug in &#8220;_a long time ago, in a galaxy far, far away_.&#8221; The realism of Star Wars is its resonance with our common experience of &#8216;how reality works.&#8217; Reality is complicated, gritty, lived-in, with more components than you can ever experience or understand. Obi-Wan and Luke don&#8217;t know the names of all the alien species dicking about in Wuher&#8217;s cantina and it wouldn&#8217;t occur to them to try. The galaxy is a big place. And the Empire&#8217;s success in this context is awe-inspiring and despair-inducing even while being obviously incomplete. Star Wars is what the world looks like to kids dealing dope on street corners. Scraping by in the chaotic brutal periphery, proud of the various impressions of home and community found there, using fantastic tools without the slightest understanding of how they work, in awe of the state while waking up every morning simmering in hate for it. Star Wars creates an environment in which the colors are brighter but everything else is the same. And then it wraps us up in the fantasy of meaningful resistance.
 
 <div id="attachment_525" style="width: 210px" class="wp-caption alignright">
-  <img class="size-full wp-image-525" title="Nomi Sunrider will fucking shank you son." src="http://93.95.228.20/wp-content/uploads/2011/09/nomi1.jpg" alt="" width="200" height="330" />
+  <img class="size-full wp-image-525" title="Nomi Sunrider will fucking shank you son." src="/wp-content/uploads/2011/09/nomi1.jpg" alt="" width="200" height="330" />
   
   <p class="wp-caption-text">
     One major fucking exception.
@@ -40,7 +40,7 @@ I&#8217;m not going to suggest that my extensive fandom (which collapsed before 
 And now, in recognizing that, I&#8217;d like to talk about what can and could have been done to save the taste we all long for and yet have all but given up on re-experiencing.
 
 <div id="attachment_515" style="width: 210px" class="wp-caption alignright">
-  <img class="size-full wp-image-515" title="You thought it was so cute your little sister always wanted to watch Return of the Jedi for the Ewoks. ...Yeah it wasn't the Ewoks." src="http://93.95.228.20/wp-content/uploads/2011/09/leia.jpg" alt="" width="200" height="290" />
+  <img class="size-full wp-image-515" title="You thought it was so cute your little sister always wanted to watch Return of the Jedi for the Ewoks. ...Yeah it wasn't the Ewoks." src="/wp-content/uploads/2011/09/leia.jpg" alt="" width="200" height="290" />
   
   <p class="wp-caption-text">
     Welcome to puberty, here&#8217;s your bondage fetish.
@@ -70,7 +70,7 @@ I&#8217;m partial to the notion that Palpatine, being Sith and a genius, was irr
 For the vast majority of the galaxy the collapse of the Empire means a sudden return to local governance. Corrupt administrators, republican governments, traditional rulers, gangsters, warlords, corporate operations&#8230; With a ton of un-ruled marketplaces as well as idealic fringe communities as well.
 
 <div id="attachment_574" style="width: 210px" class="wp-caption alignright">
-  <img class="size-full wp-image-574" title="I'm pretty certain Ackbar could sleep with any human he wanted. It's that baritone voice. Oh and mouth tentacles." src="http://93.95.228.20/wp-content/uploads/2011/09/mon-calamari.png" alt="" width="200" height="366" />
+  <img class="size-full wp-image-574" title="I'm pretty certain Ackbar could sleep with any human he wanted. It's that baritone voice. Oh and mouth tentacles." src="/wp-content/uploads/2011/09/mon-calamari.png" alt="" width="200" height="366" />
   
   <p class="wp-caption-text">
     Fuck off whitey.

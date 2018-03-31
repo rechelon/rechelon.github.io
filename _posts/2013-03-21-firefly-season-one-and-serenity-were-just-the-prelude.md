@@ -9,7 +9,7 @@ permalink: /2013/03/21/firefly-season-one-and-serenity-were-just-the-prelude/
 categories:
   - 'Fiction &amp; Culture'
 ---
-[<img alt="SerenityEnd" src="http://93.95.228.20/wp-content/uploads/2013/03/serenityend.png" width="600" height="250" />](http://93.95.228.20/wp-content/uploads/2013/03/serenityend.png)
+[<img alt="SerenityEnd" src="/wp-content/uploads/2013/03/serenityend.png" width="600" height="250" />](/wp-content/uploads/2013/03/serenityend.png)
 
 I will always remember the first time I paused while flicking through channels and heard &#8220;boy, this planet really smells!&#8221; _I was immediately hooked. A_nd I spent the following long dark years before Serenity a fervent evangelist. That we even got our Big Damn Movie shocks me to this day and I want to make clear that I am more than content to sit back, wrap up my fandom with a little bow, put it on a shelf, and only ever trot it out when someone makes the mistake of asking the wrong question at a party. We got our ending&#8211;such as it is&#8211;and I have no illusions that our wildly successful cast will ever disentangle themselves from their various contracts in time to film anything other than Firefly: The Geriatrics.
 
@@ -25,7 +25,7 @@ But of course this is a two-sided coin. While the upper echelons of the police/m
 
 If Mal was unable to get underscrupulous jobs _before_ because of his chaotic conscience and attention grabbing antics, now things are surely only peachy.
 
-[<img alt="Mal" src="http://93.95.228.20/wp-content/uploads/2013/03/mal.png" width="600" height="254" />](http://93.95.228.20/wp-content/uploads/2013/03/mal.png)
+[<img alt="Mal" src="/wp-content/uploads/2013/03/mal.png" width="600" height="254" />](/wp-content/uploads/2013/03/mal.png)
 
 This is the real linchpin on which Serenity instantly transforms from a crescendo and coda to the opening salvo in our little old firefly&#8217;s real journey. Whereas before the crew were junior-grade lumpenproles, in constant danger of being crushed by a stray step but capable of eking out an honestly dishonest living begging for warm bowls of crime-filled gruel and saluting passing cops with their best pearly-white smiles, now they&#8217;re actual outlaws.
 
@@ -45,7 +45,7 @@ Cosmopolitan revolutionary and radical movements surely exist in the core of the
 
 Serenity framed itself and the prior prelude of Firefly as Mal&#8217;s struggle to finally stand for something, to shake off the wounded defensive nihilism of the Browncoats&#8217; defeat and come back into the world. But it also brought to the fore River&#8217;s similar but hidden journey in ways that hinted at her always being the main character, albeit temporarily obscured in the background detail. In that light Firefly Season One and its spectacular finale look a lot like opening chapter of a George RR Martin book: the person indicated to be of central narrative importance is there primarily to set things up and characters gonna die quickly.
 
-[<img alt="River" src="http://93.95.228.20/wp-content/uploads/2013/03/river.png" width="600" height="252" />](http://93.95.228.20/wp-content/uploads/2013/03/river.png)
+[<img alt="River" src="/wp-content/uploads/2013/03/river.png" width="600" height="252" />](/wp-content/uploads/2013/03/river.png)
 
 Serenity ends with River exactly where Mal began five years before the show in that junkyard: a couple years after a personal hell, just beginning to coming out of her shell and looking up at what could be. That&#8217;s a lot of seasons to come. I can&#8217;t wait to find out what she finally comes to believe in.
 
