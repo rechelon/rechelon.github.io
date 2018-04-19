@@ -7,7 +7,7 @@ layout: post
 guid: http://rechelon.github.io/?p=1945
 permalink: /2016/05/09/you-dont-hate-the-world/
 hidden:
-  - 0
+  - 1
 categories:
   - 'Love &amp; Feminism'
 ---
