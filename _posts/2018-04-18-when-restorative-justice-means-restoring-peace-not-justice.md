@@ -8,7 +8,7 @@ permalink: /2018/04/18/when-restorative-justice-means-restoring-peace-not-justic
 hidden:
   - 0
 categories:
-  - Love & Feminism 
+  - 'Love &amp; Feminism'
 
 ---
 
