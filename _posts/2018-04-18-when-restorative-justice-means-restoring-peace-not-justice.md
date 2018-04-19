@@ -1,0 +1,30 @@
+---
+id: 1001 
+title: When “Restorative Justice” Means Restoring Peace, Not Justice
+date: 2018-04-18T18:16:50+00:00
+author: rechelon
+layout: post
+permalink: /2018/04/18/when-restorative-justice-means-restoring-peace-not-justice
+hidden:
+  - 0
+categories:
+  - Love & Feminism 
+
+---
+
+
+
+If there’s one deep and profound disagreement with the left I have it’s a systematic privileging of collective stability or unity over individual free association. It’s a sad fact that leftist activists often hunger for community far more than they hunger for freedom. And one consequence of this is a persistent inability to deal with conflict, a sense that schism and “betrayal of the peace” are greater crimes than the underlying issues prompting said fracture.
+
+We see this in consensus process, which has widely been warped to privilege the maintenance of groups over the organic free association of individuals. We also see this in appeals to “restorative justice” which has often been twisted into nothing more than a banner for those who want to return to peace and unity in a community — at any cost. In this vision of “restorative justice” the goal isn’t undoing the damage done by an abuser or limiting the risk they pose, but channeling conflict over the abuser into contained, unexplosive channels. The central aim of such “restorative justice” becomes avoiding loud public conflict, the severing of friendships, etc. In short, making things easier for bystanders pissed that they might have to take sides.
+
+Of course “restorative justice” is ostensibly supposed to be “survivor-oriented,” but this is easy enough to get around — just turn “survivor” into a general identity rather than a specific relation, then everyone can claim to be a survivor. This shit is a fucking constant — an abuser or rapist or their apologists will respond to confrontation over their acts with the magic hollow words “speaking as a survivor…” As if being a survivor of other acts gives you similar standing to the survivor of the actual act in question. It’s patently nonsensical but such maneuvers work because leftist activists at large are invested in the psychological feeling of community. They’ll say or do whatever to “restore” that feeling, not to actually restore the survivor or impede abuse.
+
+And of course those abusers and social capitalists at the top of organizational hierarchies love using “that’s not very restorative justice” to attack anyone calling them out. “Here, we have a reconciliation process specifically designed to defuse accusations in secret, if you aren’t using that then you’re acting in bad faith.” Sharing information more widely is thus cast as betrayal. Never mind that communicating one’s experiences to whomever one pleases is as near a “fundamental right” as possible, and never mind that the free flow of information is absolutely critical to increasing agency for all. “Restorative justice” has become about imposing regimes of silence. The anarchist version of those stodgy old socialist orgs that demand the peons submit their accusations against the activist bosses that raped them to the proper subcommittee and then denounce them for failing to abide by the organization’s suffocating internal process. *“What is this COINTELPRO?!”* exclaims yet another shitty middle aged dude, horrified to watch the ground under his power start to give out. And so begins another wave of self-congratulatory “this is toxic callout culture!” posts, rallying both those with some legitimate fears and those who would rather truth never be spoken to power.
+
+We all know that callouts can be leveraged shallowly by sociopathic opportunists to garner social capital or to intentionally disrupt. Just as we know that immediately condemning and excluding anyone merely problematic is a path to insular irrelevance. Sure, there are dangers there, but it’s galling the way that those firmly ensconced in social capital have started to twist the critique of social capitalism into a weapon to be used against any actions that change the apportionment of social capital. Calling out the scene patriarch becomes an act of social capitalism — *“oh they just want more capital and are trying to score points”* — whereas the passive maintenance and leveraging of social capital? Nothing wrong with that! The abuser’s buddy uses his national network of friends to shit talk the survivor and this is never seen as social capitalism but the rabble of young queer kids protesting that dude are seen as ravenous hyenas out to gobble up the social capital — *the real “capitalists.”*
+
+In its most widespread form “restorative justice” has become a bias towards silence and unity that inherently backs the status quo. And it is twisting critiques of social capitalism from the anarchist critique of hierarchy and monopolies to a decidedly un-anarchist hostility towards individualism and fracturing. In this picture what’s wrong with capitalism is its supposed individualism and fluidity not its hierarchy and rigidity. The marginalization of survivors in favor of the solidity of communities and organizations is the natural consequence of such a skewed perspective.
+
+Anarchism prescribes a rough and dangerous path, threading a balance between numerous possible directions of failure. Sure, in the long run we won’t build the world we want to see by always cutting people entirely out — this is a failure mode of callout culture that’s important. But it’s also important to realize that, in the short term, we often need to staunch the blood flow. Drawing lines against rapists, snitches, etc. is absolutely and obviously important. We do not have all the time and energy in the world, and the inclusion of some people often necessarily means the exclusion of others. The means the tactics we choose in the short term cannot always be directly one-to-one prefigurative of the utopia we’d like to see. Anarchy isn’t everyone punching one another, but still in many contexts we must throw our fists. We want a teeming, richly connected world, but building more connections sometimes means broadcasting about and routing around damage.
+
