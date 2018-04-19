@@ -10,7 +10,7 @@ permalink: /2016/05/10/nihilism-a-lie-in-service-to-the-existing/
 hidden:
   - 0
 categories:
-  - Internal Debate
+  - Primitivism &amp; Nihilism
 ---
 <div id="attachment_1726" class="wp-caption aligncenter" style="width: 660px;">
   <p>

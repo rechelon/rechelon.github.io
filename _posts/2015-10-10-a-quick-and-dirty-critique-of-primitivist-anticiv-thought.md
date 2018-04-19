@@ -9,7 +9,7 @@ permalink: /2015/10/10/a-quick-and-dirty-critique-of-primitivist-anticiv-thought
 hidden:
   - 0
 categories:
-  - Internal Debate
+  - Primitivism &amp; Nihilism
 ---
 <div id="attachment_1820" style="width: 410px" class="wp-caption aligncenter">
   <a href="http://rechelon.github.io/wp-content/uploads/2015/10/cover_image.jpg"><img class="wp-image-1820" src="http://rechelon.github.io/wp-content/uploads/2015/10/cover_image.jpg" alt="" width="400" height="618" /></a>

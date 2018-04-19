@@ -5,7 +5,7 @@ layout: post
 date: 2017-10-25T00:17:09+00:00
 permalink: /2017/10/24/on-no-platform-and-its/
 categories:
-  - Internal Debate
+  - Primitivism &amp; Nihilism
 
 ---
 Should publishing neonazi material be tolerated among anarchists?
