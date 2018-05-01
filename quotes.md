@@ -104,6 +104,7 @@ guid: http://humaniterations.wordpress.com/?page_id=83
   <em>&#8211;Emma Goldman</em>
 </p>
 
+<img class="alignnone size-full wp-image-1506" src="/wp-content/uploads/bangladesh-a.jpeg" alt="" width="650" />
 <h1 style="text-align: center;">
   <span style="text-decoration: underline;">Primers</span>
 </h1>
@@ -115,6 +116,8 @@ guid: http://humaniterations.wordpress.com/?page_id=83
 <p style="text-align: left;">
   <a href="http://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works">&#8220;Anarchy Works&#8221;</a> &#8211; Peter Gelderloos, 2010
 </p>
+
+
 
 <img class="alignnone size-full wp-image-1506" src="/wp-content/uploads/2009/12/IMG_3763.jpg" alt="IMG_3763" width="650" />
 
