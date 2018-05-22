@@ -152,11 +152,3 @@ categories:
 
 <span style="font-weight: 400;">Anarchism’s uniqueness is that it doesn’t seek to equalize rulership but to demolish it, a radical aspiration that cuts through the assumptions of our dystopian world. Anarchism isn’t about achieving a </span>_<span style="font-weight: 400;">balance</span>_ <span style="font-weight: 400;">of domination — assuring that each person gets 5.2 milliHitlers of oppression each — but about </span>_<span style="font-weight: 400;">abolishing</span>_ <span style="font-weight: 400;">it altogether.</span>
 
-* * *
-
-[_Mutual Exchange_][1] _is C4SS’s goal in two senses: We favor a society rooted in peaceful, voluntary cooperation, and we seek to foster understanding through ongoing dialogue. Mutual Exchange will provide opportunities for conversation about issues that matter to C4SS’s audience._
-
-_Online symposiums will include essays by a diverse range of writers presenting and debating their views on a variety of interrelated and overlapping topics, tied together by the overarching monthly theme. C4SS is extremely interested in feedback from our readers. Suggestions and comments are enthusiastically encouraged. If you’re interested in proposing topics and/or authors for our program to pursue, or if you’re interested in participating yourself, please email C4SS’s Mutual Exchange Coordinator,_ [_Cory Massimino_][2]_, at cory.massimino@c4ss.org._
-
- [1]: https://c4ss.org/content/40180
- [2]: http://c4ss.org/content/author/cory-massimino
