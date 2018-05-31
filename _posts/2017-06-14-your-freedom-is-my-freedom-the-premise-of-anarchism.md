@@ -8,6 +8,15 @@ categories:
   - 'Anarchist Core Concepts &amp; Theory'
 
 ---
+
+<div id="attachment_1820" style="width: 410px" class="wp-caption aligncenter">
+  <a href="http://rechelon.github.io/wp-content/uploads/2015/10/cover_image.jpg"><img class="wp-image-1820" src="http://rechelon.github.io/wp-content/uploads/yourfreedom.png" alt="" width="400" height="618"></a>
+    
+      <p class="wp-caption-text">
+          This text is available as a zine <a href="http://rechelon.github.io/wp-content/uploads/yourfreedom.pdf">formatted for printing</a>.
+            </p>
+</div>
+
 Sometimes words are just words &#8212; interchangeable and discardable &#8212; but sometimes a word belies a knot in our thought, tightly wound and tensely connected. &#8220;Anarchy&#8221; is one such word.
 
 Centuries ago the English peasantry rose up to overthrow the king and radically remake society. The vanguard of this revolution, the levellers and the diggers, sought to demolish the feudal hierarchy, to revise property and the division of land. In their revolt they were joined by opportunists who sought the overthrow of the king to assert their own power. Naturally these factions clashed. It was in this civil war that the word &#8220;anarchy&#8221; was leveraged to great effect. Those with the audacity to explicitly oppose anyone ruling over anyone were characterized as desiring &#8220;anarchy,&#8221; and when this happened the idealistic rebels were forced to backpeddle, to stumble and prevaricate on a trap built into their very language.
