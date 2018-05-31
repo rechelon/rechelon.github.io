@@ -10,7 +10,7 @@ categories:
 ---
 
 <div id="attachment_1820" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://rechelon.github.io/wp-content/uploads/2015/10/cover_image.jpg"><img class="wp-image-1820" src="http://rechelon.github.io/wp-content/uploads/yourfreedom.png" alt="" width="400" height="618"></a>
+  <a href="/wp-content/uploads/yourfreedom.pdf"><img class="wp-image-1820" src="/wp-content/uploads/yourfreedom.png" alt="" width="400" height="618"></a>
     
       <p class="wp-caption-text">
           This text is available as a zine <a href="http://rechelon.github.io/wp-content/uploads/yourfreedom.pdf">formatted for printing</a>.
