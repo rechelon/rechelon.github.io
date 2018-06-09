@@ -91,9 +91,14 @@ h2 {
   color: #fff;
   margin: 20px;
 
+  :first-child {
+    border-right: solid 2px white;
+  }
   a {
     color: #fff;
+    padding:0px 20px;
   }
+  
 }
 
 .main {
