@@ -8,7 +8,7 @@ permalink: /2018/06/12/antifa-activists-as-the-truest-defenders-of-free-speech
 hidden:
   - 0
 categories:
-  - 'Strategy & Practice'
+  - 'Strategy &amp; Practice'
 
 ---
 

@@ -8,7 +8,7 @@ permalink: /2018/06/11/responding-to-fascist-organizing
 hidden:
   - 0
 categories:
-  - 'Strategy & Practice'
+  - 'Strategy &amp; Practice'
 
 ---
 
