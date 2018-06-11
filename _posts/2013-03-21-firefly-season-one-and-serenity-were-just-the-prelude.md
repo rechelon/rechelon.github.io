@@ -7,7 +7,7 @@ layout: post
 guid: http://rechelon.github.io/?p=1384
 permalink: /2013/03/21/firefly-season-one-and-serenity-were-just-the-prelude/
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 [<img alt="SerenityEnd" src="/wp-content/uploads/2013/03/serenityend.png" width="600" height="250" />](/wp-content/uploads/2013/03/serenityend.png)
 

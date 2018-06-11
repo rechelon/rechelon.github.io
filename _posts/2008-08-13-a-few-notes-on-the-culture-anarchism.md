@@ -7,7 +7,7 @@ layout: post
 guid: http://humaniterations.wordpress.com/?p=69
 permalink: /2008/08/13/a-few-notes-on-the-culture-anarchism/
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 Iain Bank&#8217;s novels about an anarchist society called The Culture have garnered widespread literary acclaim and single-handedly re-launched Space Opera. They are stunningly popular and influential books (although still somewhat obscure in America).
 

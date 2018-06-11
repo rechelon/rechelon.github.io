@@ -9,7 +9,7 @@ permalink: /2009/12/12/the-insular-decade/
 hidden:
   - 1
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 The 00s were a triumph of insularity.
 

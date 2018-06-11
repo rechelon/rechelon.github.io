@@ -9,7 +9,7 @@ permalink: /2010/01/20/random-sf-asides/
 hidden:
   - 1
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 For all the talk of impenetrable singularity, it occurs to me that the modern milieu of SF writers is almost entirely preoccupied with futurism and future-shock, in contrast to yestergeneration&#8217;s focus on allegory / thought experiment.  (Perpetually lurking in the background are the marginal Clarkesque Big Damn Object trade shows.)
 

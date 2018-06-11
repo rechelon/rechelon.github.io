@@ -9,7 +9,7 @@ permalink: /2011/09/19/how-star-wars-should-have-ended-reflections-on-taste-the-
 hidden:
   - 0
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 I&#8217;m feeling profoundly under the weather so it&#8217;s as good a time as any to indulge in that most venerable of radical pastimes, ranting about Star Wars.
 

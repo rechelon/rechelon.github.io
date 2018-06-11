@@ -9,7 +9,7 @@ permalink: /2016/03/26/how-to-fix-the-force-awakens/
 hidden:
   - 0
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 <img class="alignnone size-full wp-image-1901" src="http://rechelon.github.io/wp-content/uploads/2016/03/3.png" alt="3" width="650" />
 

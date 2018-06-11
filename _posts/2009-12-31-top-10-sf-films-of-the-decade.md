@@ -7,7 +7,7 @@ layout: post
 guid: http://humaniterations.wordpress.com/?p=171
 permalink: /2009/12/31/top-10-sf-films-of-the-decade/
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 [<img class="alignnone size-full wp-image-205" src="/wp-content/uploads/2010/01/serenity.jpg" alt="" width="510" height="218" />](/wp-content/uploads/2010/01/serenity.jpg)
 

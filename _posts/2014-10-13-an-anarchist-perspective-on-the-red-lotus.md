@@ -7,7 +7,7 @@ layout: post
 guid: http://rechelon.github.io/?p=1554
 permalink: /2014/10/13/an-anarchist-perspective-on-the-red-lotus/
 categories:
-  - 'Fiction &amp; Culture'
+  - 'Science Fiction'
 ---
 <div id="attachment_1555" style="width: 660px" class="wp-caption alignnone">
   <img class="wp-image-1555 size-full" src="http://rechelon.github.io/wp-content/uploads/2014/10/ZaheernPli.png" alt="ZaheernPli" width="650" />

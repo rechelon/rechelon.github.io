@@ -9,7 +9,7 @@ permalink: /2017/12/19/so-were-just-abolishing-worldbuilding-then
 hidden:
   - 0
 categories:
-  - Fiction &amp; Culture
+  - Science Fiction
 
 ---
 <img src="https://cdn.vox-cdn.com/uploads/chorus_image/image/58022819/Snoke.0.jpg" width="650">
