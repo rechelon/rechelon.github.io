@@ -8,6 +8,8 @@ guid: http://humaniterations.wordpress.com/?p=31
 permalink: /2009/11/13/is-government-a-necessary-evil/
 categories:
   - 'Anarchist Core Concepts &amp; Theory'
+hidden:
+  - 1
 ---
 Is government a necessary evil?
 

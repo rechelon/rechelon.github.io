@@ -9,7 +9,7 @@ permalink: /2006/06/13/15-post-primitivist-theses/
 hidden:
   - 1
 categories:
-  - Internal Debate
+  - 'Primitivism &amp; Nihilism'
 ---
 _Twenty years ago a group of Detroit anarchists began work on a new synthesis of environmental and anti-authoritarian thought. Distinguishing themselves from other burgeoning ecological movements in the eighties anarchopunk scene they sought to draw inspiration directly from our primitive roots. Anarchy, they declared, should not be considered in terms of an abstract state to be politically won, but rather a living experience and extensive historical reality. Reevaluating the ideologies and dogma of the classic anarchist movement they turned attention to the archaeological record and existing indigenous societies. By building on post-left critiques they passionately worked to bring attention to a much wider context and history of mental, social and physical expressions of totalitarianism. And finally, taking a stunningly broad stance that framed humanity’s neolithic embrace of mass society in terms of the mythological Fall from Eden, the movement chose to target as a single whole both the virulent social hierarchies that accompanied the onset of agrarianism and the entirety of technological development since._
 

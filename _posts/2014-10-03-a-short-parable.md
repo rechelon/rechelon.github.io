@@ -7,7 +7,7 @@ layout: post
 guid: http://rechelon.github.io/?p=1542
 permalink: /2014/10/03/a-short-parable/
 hidden:
-  - 0
+  - 1
 categories:
   - Economics
 ---

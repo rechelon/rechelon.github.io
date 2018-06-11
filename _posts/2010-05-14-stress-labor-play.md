@@ -8,6 +8,8 @@ guid: http://humaniterations.wordpress.com/?p=267
 permalink: /2010/05/14/stress-labor-play/
 categories:
   - Internal Debate
+hidden:
+  - 1
 ---
 There&#8217;s a lot of talk in anarchist circles about abolishing work.  Some of it in line with the dream of a high-technology path to post-scarcity.  But a lot of it takes an alternative route and settles for simply building a ludic society &#8212; that is to say a culture that adapts its tasks into &#8220;play&#8221;.  Like a lot of romantic, boundary-pushing, post-leftish notions it&#8217;s purposefully detached from precise conceptual formulations, but the general notion is that the exertion fundamentally necessary to, you know, keeping us alive should be fun rather than drudgerous.  Appealing to the dichotomy of association we distinguish between &#8220;work&#8221; and &#8220;play.&#8221;
 

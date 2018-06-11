@@ -8,6 +8,8 @@ guid: http://humaniterations.wordpress.com/?p=618
 permalink: /2011/10/15/markets-not-capitalism/
 categories:
   - Economics
+hidden:
+  - 1
 ---
 The notion that capitalism exemplifies a free market is akin to the notion that a few wilting geraniums in a greenhouse constitute an ecosystem.   Markets are useful tools for an egalitarian society &#8212; properly defined they are of unparalleled potential &#8212; but explaining this utility has become as difficult as explaining the utility of ecology to residents of a hermetic space station who only remember the upsets caused by runaway fungus in their food vats.  We cannot expect our abstract proofs to spark the imagination of radicals until the cancers and catastrophes of our near-terminal society are properly contextualized.  And boy are there are a lot of them.
 

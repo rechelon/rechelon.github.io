@@ -7,7 +7,7 @@ layout: post
 guid: http://humaniterations.wordpress.com/?p=64
 permalink: /2009/11/13/a-brief-defense-of-transhumanism-its-abolition/
 hidden:
-  - 0
+  - 1
 categories:
   - 'Futurism &amp; Transhumanism'
 ---

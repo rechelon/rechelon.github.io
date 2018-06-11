@@ -7,7 +7,7 @@ layout: post
 guid: http://humaniterations.wordpress.com/?p=256
 permalink: /2010/05/10/reviewing-like-its-2007/
 hidden:
-  - 0
+  - 1
 categories:
   - Reviews
 ---
