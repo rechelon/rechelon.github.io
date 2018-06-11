@@ -8,7 +8,7 @@ permalink: /2018/06/09/social-movements-and-the-sacrifice-of-epistemic-rationali
 hidden:
   - 0
 categories:
-  - 'Strategy & Practice'
+  - 'Strategy &amp; Practice'
 
 ---
 
