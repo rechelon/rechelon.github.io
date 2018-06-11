@@ -8,6 +8,8 @@ guid: http://humaniterations.wordpress.com/?p=239
 permalink: /2010/01/30/goddamnit/
 categories:
   - 'Strategy &amp; Practice'
+hidden:
+  - 1
 ---
 The internet is as free and as profound a social medium as it is today for a host of incredibly complicated reasons.  Yes, the structure of the technology, the innovative drive behind its growth and adaptation, and the common desires that directed it were inherently and profoundly libertine (or at least relatively so).  But to glance at the history of the internet at any point is to be reminded that its successes were rarely leveraged from a position of strength and conscious intent, but rather obtained through the repeated ineptitude and shortsightedness of those in power.  And usually the happenstance alignment of self-centered escapism widespread among the populace with substantive resistance from a marginal fraction.  While often the norm, such conditions cannot be relied upon.
 
