@@ -52,9 +52,9 @@ This does not mean a "little concession" or a "little pain" from you, sometimes 
 
 This is not a negotiation where each person's discomfort is weighed against the other's. Sometimes to get things right you may have to undergo a lot more discomfort than you caused.
 
-Accountability is lifelong. This is what our lives are about. Being accountable for our actions. Anarchism means infinite responsibility, not less.
+Accountability is lifelong. This is what our lives are about. Being accountable for our actions. *Anarchism means infinite responsibility, not less.*
 
-Part of what this obliges is never running from your past, never papering it over or trying to get back to some kind of unspoiled prehistory. At the very least in the case of sexual or partner abuse you will have to tell this story to everyone you are interested in dating forever. Forever.
+Part of what this obliges is never running from your past, never papering it over or trying to get back to some kind of unspoiled prehistory. At the very least in the case of sexual or partner abuse you will have to tell this story to everyone you are interested in dating forever. *Forever.*
 
 Accountability means being accountable to the person you harmed and to everyone else. But -- and here's a very important point -- it damn well means you should listen attentively to the person you hurt.
 
@@ -66,7 +66,7 @@ But if they're willing to communicate, through a friend or whatever, it's really
 
 Similarly, going off and "putting yourself through accountability" is an empty misdirection if the survivor's wishes and perspective isn't also directly determining your accountability. While broader friends and associates can -- and sometimes should -- be involved, this shouldn't happen in a way that marginalizes, impedes, or provides barriers to the survivor's input and leadership. This does not necessarily mean them sharing a room with you or directly talking to you, but it also shouldn't mean friends acting as go betweens in a way that impedes the survivor's voice or has them act as authorities or interfering mediators. If you're mobilizing a crew of friends to set up an "accountability process" for you that insulates you from the survivor and allows your buds to craft a different narrative... you're being a shit and a lot of folks will know what's up.
 
-Depending on the scale and nature of the abuse some baseline shit they might require from you would be some functional restraining orders, mediation, counseling, studying, restraint from certain behaviors like drinking, yelling at people, or hitting up tinder, participating in certain orgs or wielding institutional power... It's gonna get complicated.
+Depending on the scale and nature of the abuse some baseline shit they might require from you would be some functional restraining orders, mediation, counseling, studying, restraint from certain behaviors like drinking, yelling at people, hitting up tinder, participating in certain orgs, or wielding institutional power... It's gonna get complicated.
 
 It's very much worth noting here that anarchists and radicals are generally not trained psychologists and that ad hoc off-the-cuffs attempts by laymen to grapple with someone's thought processes, frames, habits, baggage, etc, are not going to have a strong success rate. While you shouldn't replace or overrule the needs and directions of those at risk and who you harmed, getting a legit therapist too isn't a bad idea. But this isn't a fucking ride you can passively sit on, you need to be active, you need to be looking for ways to help and find effective avenues for personal growth.
 
