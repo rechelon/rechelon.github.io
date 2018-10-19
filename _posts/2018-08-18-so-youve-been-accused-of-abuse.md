@@ -8,7 +8,7 @@ permalink: /2018/08/18/so-youve-been-accused-of-abuse
 hidden:
   - 0
 categories:
-  - 'Love & Feminism'
+  - 'Love &amp; Feminism'
 
 ---
 
