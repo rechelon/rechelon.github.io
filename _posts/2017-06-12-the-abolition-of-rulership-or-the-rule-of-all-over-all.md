@@ -8,6 +8,13 @@ categories:
   - Internal Debate
 
 ---
+
+<div id="attachment_1820" style="width: 410px" class="wp-caption aligncenter">
+<p class="wp-caption-text">
+This text is available as a zine <a href="http://rechelon.github.io/wp-content/uploads/Democracy.pdf">formatted for printing</a>.
+</p>
+</div>
+
 <span style="font-weight: 400;">Fighting over the definitions of words can sometimes seem like a futile and irrelevant undertaking. However it’s important to note that whatever&nbsp;language gets standardized in our communities shapes what we can talk and think about. So much of radical politics often boils down to acrimonious dictionary-pounding over words like “capitalism,” “markets,” “socialism,” “communism,” “nihilism,” etc.&nbsp;Each side is usually engaged in bravado rather than substance. Radical debates turn into preemptive declarations of “everyone knows X” or “surely Y,” backed by nothing more than the social pressure we can bring to bear against one another. And yet — to some degree — we’re trapped in this game because acquiescing to the supposed authority of our adversaries’ definitions would put us at an unspeakable disadvantage. The stakes of debates over “mere semantics” can be quite high, determining what’s easy to describe and what’s awkward or laborious.</span>
 
 <span style="font-weight: 400;">Thus the partisan impulse is usually to define our adversaries out of existence: muddying their analytic waters, emphasizing any and all negative associations, and painting their conclusions as insane, verboten, or outgroup. At the same time we leap on any and all positive associations we can twist to serve our own ends. Debate over definitions is so often merely a game of social positioning: every word reverberating with the different associations of different audiences and thus what alliances you’re declaring or managing to ascribe to your interlocutor. Language is a messy, complicated, and nebulous place where fallacious arguments are not only par for the course but often thought to be how the whole thing hangs together. In the worst corners of academia and “radical” politics this is embraced wholesale, where&nbsp;philosophy is reduced to mere poetry and cheap ploys of emotive resonance: batted back and forth with an underlying smug derision at the entire affair. “</span>_<span style="font-weight: 400;">Have you ever noticed that we use the same word for your job — your occupation — as we do for the occupation of Iraq?</span>_<span style="font-weight: 400;">” and this is somehow treated as insightful rather than doing violence to clarity and honesty.</span>
