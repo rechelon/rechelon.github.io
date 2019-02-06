@@ -48,7 +48,7 @@ What's critical here is that such freedom is not rivalrous. The intermixing of o
 
 In formal physics terms the dynamics being described obviously relate strongly with entropy, which is not so much a matter of decay as the number of possibilities, although it is important to emphasize the interdependence and *contingency* emphasized in our picture. The idea that the point of consciousness is to increase something like entropy is an old one, that constantly reoccurs to a great many people.
 
-The standard response given to the entropy-maximizers is that a world of maximum entropy, a world where static latices of dead rocks are liberated into a hot gas, where the universe is set on fire, would be itself a drab affair. And much the same is said when such is mapped to more everyday social relations. Anarchy would be boring. A world of equally heroic angels would be a world without the drama and sacrifice of war and hierarchies.
+The standard response given to the entropy-maximizers is that a world of maximum entropy, a world where static lattices of dead rocks are liberated into a hot gas, where the universe is set on fire, would be itself a drab affair. And much the same is said when such is mapped to more everyday social relations. Anarchy would be boring. A world of equally heroic angels would be a world without the drama and sacrifice of war and hierarchies.
 
 There are two responses to this. The first is that a hot plasma is not indifferentiable, but contains rich dynamics too fine, multitudinous, and energetic for our clumsy troglodytic eyes to pick out and discern. A world of heroic angels, much less a closely inter-networked one, would not be a world of gray peasants, but one where the engines of art and drama move even faster.
 
