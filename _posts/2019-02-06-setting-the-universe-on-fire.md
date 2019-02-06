@@ -12,15 +12,15 @@ categories:
 
 ---
 
-Let's say you want to maximize freedom. What is freedom but choice? The number of options you have.
+Let's say you hunger for liberation, you want to increase freedom. What is freedom but choice? The number of options you have.
 
-Consider these options as a tree. What other options are opened up by choosing a specific option?
+Now consider these options as a branching tree. What other options are opened up by choosing a specific option?
 
-If you have a choice between a hundred flavors of toothpaste that's a very limited set of choices because once you make the choice there's not much left to do. There's very little different between the experience of brushing your teeth with one flavor of toothpaste versus another, nothing hangs on it, the impact upon the wider universe is very limited, and no further choices get opened up.
+It has long been pointed out that if you have a choice between a hundred flavors of toothpaste that's a very limited set of choices because once you make the choice there's not much left to do. There's very little different between the experience of brushing your teeth with one flavor of toothpaste versus another, nothing hangs on it, the impact upon the wider universe is very limited, and no further choices get opened up.
 
 We can see choice in the context of a tree like structure. At each joint there are a number of branches, and these branches themselves have branches, and so on. Some branches have very few sub-branches.
 
-At the most fundamental physical level we could consider the branches to be the causal impact of a moving particle. If its angle of deflection from another particle is a free parameter, what are the consequences in the configuration state of a wider system?
+To check that we're not creating disconnected abstractions, phantasms unrelated to reality, at the most fundamental physical level we could consider the branches to be the causal impact of a moving particle. If its angle of deflection from another particle is a free parameter, what are the consequences in the configuration state of a wider system?
 
 At many angles the particle might shoot off on an uninterrupted and boring trajectory, at other angles it might smash into other particles, and at some very unique range of angles it might not only smash into other particles but set off a cavalcade of interactions. And one might just as well think of billiard balls here. When first breaking, a large array of angles one might choose would send the cue ball off to little impact, missing the grouped balls. But in contrast a smaller choice of angles suddenly have rich potential.
 
@@ -28,9 +28,9 @@ In the overall system choice between a few lonely trajectories doesn't amount to
 
 When evaluating human choice in society and the wider universe the story is much the same. Every choice is a a branch with many further branches, and these branches fork to different degrees and at different depths.
 
-One option may contain a rich array of further options, but no more. An explosion of civil violence may shake off the norms and well worn habits of a society, leading to all kinds of novel situations, but with all such paths still quickly terminating in death or ruin. A small explosion of brilliant fire, but a brief one, leaving nothing but passive ashen mud.
+One option may contain a rich array of further options, but no more. An explosion of civil violence may shake off the norms and well worn habits of a society, leading to all kinds of novel situations, but perhaps with all such paths still quickly terminating in death or ruin. A small explosion of brilliant fire, but a brief one, leaving nothing but passive ashen mud.
 
-Similarly one option may lead to a torturous decrease in options in the short term, going to a strictly structured school for example, in order to potentially expand one's options later.
+Similarly another option may lead to a decrease in options in the short term, going to a strictly structured school for example, or avoiding a temptation, in order to potentially expand one's options later.
 
 We could, in theory, index these potential pathways in physically real terms, like extent in space and time, and measure the particle by particle expanse of configuration states and possibility trees opened by an individual's choice.
 
@@ -52,7 +52,7 @@ The standard response given to the entropy-maximizers is that a world of maximum
 
 There are two responses to this. The first is that a hot plasma is not indifferentiable, but contains rich dynamics too fine, multitudinous, and energetic for our clumsy troglodytic eyes to pick out and discern. A world of heroic angels, much less a closely inter-networked one, would not be a world of gray peasants, but one where the engines of art and drama move even faster.
 
-The second response is that such a utopian abstraction of a static *end* is misleading. The point here is not the fire itself but the setting of the fire. When evaluating pathways here the point is the choice, to maximize the possible, the intersections and forkings of new choices, continuously, in as wide an expanse of spacetime as possible. The "end" in such a finite conclusive sense is never reachable, all we have is a vast stretch of time across a vast world.
+The second response is that such a utopian abstraction of a static *end* is misleading. The point here is not the fire itself but the setting of the fire. When evaluating pathways here the point is the choice, to maximize the possible, the intersections and forkings of new choices, continuously, in as wide an expanse of spacetime as possible. Liberation is not something cast beyond some arbitrary horizon, but something to be maximized the whole way. The "end" in such a finite conclusive sense is never reachable, all we have is a vast stretch of time across a vast world.
 
 We can fill it with choice, we can set fires so that they spread and never quench, or we can take some bullshit order.
 
