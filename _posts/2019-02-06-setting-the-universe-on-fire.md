@@ -12,9 +12,9 @@ categories:
 
 ---
 
-Let's say you hunger for liberation, you want to increase freedom. What is freedom but choice? The number of options you have.
+Let's say you hunger for liberation, you want to increase freedom. What is freedom but choice? 
 
-Now consider these options as a branching tree. What other options are opened up by choosing a specific option?
+One might quickly think to equate this with the raw number of immediate options you have. But consider these options as a branching tree. What other options are opened up by choosing a specific option?
 
 It has long been pointed out that if you have a choice between a hundred flavors of toothpaste that's a very limited set of choices because once you make the choice there's not much left to do. There's very little different between the experience of brushing your teeth with one flavor of toothpaste versus another, nothing hangs on it, the impact upon the wider universe is very limited, and no further choices get opened up.
 
