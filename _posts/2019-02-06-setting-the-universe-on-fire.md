@@ -46,7 +46,7 @@ The tyrant wants to control a wider expanse, to own it, to shape it in set ways 
 
 What's critical here is that such freedom is not rivalrous. The intermixing of our efforts compounds. We can each be heroes, we can each change the world.
 
-In formal physics terms the dynamics being described obviously relate strongly with entropy, which does not mean decay but the number of possibilities, although it is important to emphasize the interdependence and *contingency* emphasized in this picture. The idea that the point of consciousness is to increase something like entropy is an old one, that constantly reoccurs to a great many people.
+In formal physics terms the dynamics being described obviously relate strongly with entropy, which is not so much a matter of decay as the number of possibilities, although it is important to emphasize the interdependence and *contingency* emphasized in our picture. The idea that the point of consciousness is to increase something like entropy is an old one, that constantly reoccurs to a great many people.
 
 The standard response given to the entropy-maximizers is that a world of maximum entropy, a world where static latices of dead rocks are liberated into a hot gas, where the universe is set on fire, would be itself a drab affair. And much the same is said when such is mapped to more everyday social relations. Anarchy would be boring. A world of equally heroic angels would be a world without the drama and sacrifice of war and hierarchies.
 
