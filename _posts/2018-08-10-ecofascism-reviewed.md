@@ -1,6 +1,6 @@
 ---
 id: 1001 
-title: Ecofascism Reviewed
+title: Ecofascism: Rejecting Thought Is Eternal 
 date: 2018-06-12T18:16:50+00:00
 author: rechelon
 layout: post
