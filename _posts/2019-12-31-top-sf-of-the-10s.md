@@ -36,8 +36,7 @@ categories:
 
 [<img class="alignnone size-full wp-image-205" src="/wp-content/uploads/topsf10/europa-report.png" alt="" width="650"  />](/wp-content/uploads/topsf10/europa-report.png)
 
-**Europa Report** &#8211; 
-
+**Europa Report** &#8211; I am firmly of the opinion that you can never have enough films about teams of astronaut scientists. Europa Report's found footage framing is a pretty dated fad but the underlying film is still solid enough. 
 
 [<img class="alignnone size-full wp-image-205" src="/wp-content/uploads/topsf10/edge-of-tomorrow.png" alt="" width="650"  />](/wp-content/uploads/topsf10/edge-of-tomorrow.png)
 
@@ -45,12 +44,12 @@ categories:
 
 [<img class="alignnone size-full wp-image-205" src="/wp-content/uploads/topsf10/interstellar.png" alt="" width="650"  />](/wp-content/uploads/topsf10/interstellar.png)
 
-**Interstellar** &#8211; A both deeply rewarding and deeply frustrating film, Interstellar defintely has its flaws. But it's so damn nice to have something actually like general relativity on a big screen.
+**Interstellar** &#8211; A both deeply rewarding and deeply frustrating film, Interstellar defintely has its flaws. But it's so damn nice to have something actually like general relativity on a big screen. I can actually totally forgive the "connected by love" stuff at the end because that's still a solidly Science Fiction move, akin to AI's bit at the end with human consciousness imprinted in the universe. What I find less forgiveable is the inconsistent application of actual physics and the very white 50s style casting of the future. Still the beginning of the film, the raw hostility to the way society crushes science is delightful.
 
 
 [<img class="alignnone size-full wp-image-205" src="/wp-content/uploads/topsf10/i-am-mother.png" alt="" width="650"  />](/wp-content/uploads/topsf10/i-am-mother.png)
 
-**I Am Mother** &#8211;
+**I Am Mother** &#8211; While the top 9 of these films were pretty much instantly a lock, or at least noteworthy contenders, I spent a lot of time agonizing over number 10. While the 00s marked a real turning point for SF on screen, the 10s saw just a glut of *better than mediocre* SF films. The lowering of budget requirements and the emergence of alternative financiers like Netflix produced a lot of content. Most of this content was incredibly formulaic, predictable to the point of being comforting for most folks. I Am Mother is not a particularly novel or creative film, but it is still a good film. Competent is the word. With great acting. You know more or less exactly what you're going to get, but it delivers in a way that doesn't feel taxing or cheap. And for that reason it beats out all the also-rans of this decade.
 
 
 <span style="font-size:85%;">This decade saw a number of great films that I don't think qualify as Science Fiction. While these films share superficial tropes and aesthetic characteristics of "sci-fi", there is a distinct lack of "science". Get Out was a classic horror film and Annihilation was lovecraftian; in both the problems aren't solveable via analysis, instead protagonist rationality is broken down and replaced with reaction. Fury Road was an action film whose post-apocalyptic setting was window dressing, the story could have easily been set in the past with other warlords. Sorry To Bother You was somewhere between magical realism and satyrical parable, a glorious and delightful project, but not science fiction. Space Opera had a particularly good decade, with Rogue One above all the other contenders, but everyone knows Space Opera isn't Science Fiction. Similarly I can't in good conscience classify Blade Runner 2049 as part of the genre, it's an aesthetic masterpiece, but only that.</span>
