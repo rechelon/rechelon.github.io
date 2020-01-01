@@ -1,5 +1,5 @@
 ---
-id: 1001 
+id: 101 
 title: Ecofascism: Rejecting Thought Is Eternal 
 date: 2018-06-12T18:16:50+00:00
 author: rechelon
