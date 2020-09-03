@@ -7,7 +7,7 @@ layout: post
 guid: http://humaniterations.wordpress.com/?p=1071
 permalink: /2020/09/06/bad-people/
 categories:
-  - 'Anarchist Core Concepts & Theory'
+  - 'Anarchist Core Concepts &amp; Theory'
 ---
 
 
