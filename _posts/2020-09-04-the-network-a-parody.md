@@ -1,6 +1,6 @@
 ---
 id: 1073
-title: The Network: A Parody of the Discourse
+title: "The Network: A Parody of the Discourse"
 date: 2020-09-04T23:19:14+00:00
 author: rechelon
 layout: post

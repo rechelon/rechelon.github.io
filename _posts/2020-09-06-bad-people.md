@@ -1,6 +1,6 @@
 ---
 id: 1073
-title: Bad People: Irredeemable Individuals & Structural Incentives
+title: 'Bad People: Irredeemable Individuals & Structural Incentives'
 date: 2020-09-06T23:19:14+00:00
 author: rechelon
 layout: post

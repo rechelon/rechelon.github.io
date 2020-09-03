@@ -1,6 +1,6 @@
 ---
 id: 1073
-title: Action Is Sometimes Clearer Than Talk: Why We Will Always Need Trade
+title: "Action Is Sometimes Clearer Than Talk: Why We Will Always Need Trade"
 date: 2020-09-05T23:19:14+00:00
 author: rechelon
 layout: post

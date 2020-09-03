@@ -1,6 +1,6 @@
 ---
 id: 1073
-title: Revealed Preference: A Parable
+title: 'Revealed Preference: A Parable'
 date: 2020-09-03T23:19:14+00:00
 author: rechelon
 layout: post
