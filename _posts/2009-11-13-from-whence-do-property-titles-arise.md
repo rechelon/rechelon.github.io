@@ -6,6 +6,8 @@ author: rechelon
 layout: post
 guid: http://humaniterations.wordpress.com/?p=58
 permalink: /2009/11/13/from-whence-do-property-titles-arise/
+hidden:
+  - 1
 categories:
   - Economics
 ---
