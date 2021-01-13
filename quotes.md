@@ -73,22 +73,6 @@ guid: http://humaniterations.wordpress.com/?page_id=83
 </p>
 
 <p style="padding-left: 30px; text-align: left;">
-  But where would these ne’er-do-wells be taken, once they were brought into “custody”? Specialized firms would develop, offering high security analogs to the current jailhouse. However, the “jails” (or rehabilitation programs) in market anarchy would compete with each other to attract criminals.
-</p>
-
-<p style="padding-left: 30px; text-align: left;">
-  Consider: No insurance company would vouch for a serial killer if he applied for a job at the local library, but they would deal with him if he agreed to live in a secure building under close scrutiny. The insurance company would make sure that the “jail” that held him was well-run. After all, if the person escaped and killed again, the insurance company would be held liable, since it pledges to make good on any damages its clients commit.
-</p>
-
-<p style="padding-left: 30px; text-align: left;">
-  On the other hand, there would be no undue cruelty for the prisoners in such a system. Although they would have no chance of sudden unchaperoned escape (unlike government prisons), they wouldn’t be beaten by sadistic guards. If they were, they’d simply switch to a different &#8220;jail,&#8221; just as travelers can switch hotels if they view the staff as discourteous.
-</p>
-
-<p style="text-align: right;">
-  <em>&#8211;Robert Murphy</em>
-</p>
-
-<p style="padding-left: 30px; text-align: left;">
   Knowledge is an immense power. Man must know. But we already know much! What if that knowledge should become the possession of all? Would not science itself progress in leaps, and cause mankind to make strides in production, invention, and social creation, of which we are hardly in a condition now to measure the speed?
 </p>
 
