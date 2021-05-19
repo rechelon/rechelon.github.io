@@ -13,6 +13,12 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image"
-  content="http://humaniterations.net/wp-content/themes/humaniterations2014/images/og-hi.png">
+  <meta property="og:image" content="http://humaniterations.net/wp-content/themes/humaniterations2014/images/og-hi.png">
+  <meta property="twitter:site" content="Human Iterations">
+  <meta property="twitter:site:id" content="rechelon">
+  <meta property="twitter:creator" content="rechelon">
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+
 </head>
