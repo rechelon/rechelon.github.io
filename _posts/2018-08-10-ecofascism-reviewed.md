@@ -12,7 +12,6 @@ categories:
 
 ---
 
-
 <p><span style="font-weight: 400;">Let us be clear that ecocide is happening.</span></p>
 <p><span style="font-weight: 400;">While we may yet avoid the severest possibilities of global ecological collapse the situation has long been grim. And it’s not just a matter of capitalism or the state making uniquely bad decisions, the tensions at play are deep — at the core of homo sapiens itself.</span></p>
 <p><span style="font-weight: 400;">Human cognition and social collaboration have created an explosion of evolution temporally detached from meaningful feedback from our surrounding ecology. <em>Biological</em> evolution proceeds at the pace of generations and incremental gene changes, but our thoughts leap far ahead, able to generate incredibly complex constructions in a minute. This provides our surrounding environs little time to adapt or react. Technological evolution proceeds far faster than biological evolutionary processes can send effective feedback, and of course political and infrastructural behemoths insulate us from caring about feedback at all. The only signals that arrive from our abruptly introduced technics tend to be cataclysmic: the extinction of entire species, the collapse of food chains. Our skulls have become like little island ecosystems, sped up in time a millionfold, generating diseases and wildlife (in the form of physical and cultural technologies) that the rest of the Earth is completely unprepared to deal with. Our monsters have escaped beyond our heads to the mainland and ravaged it.</span></p>
@@ -114,4 +113,3 @@ categories:
 <p><span style="font-weight: 400;">But what if it wasn’t? </span></p>
 <p><span style="font-weight: 400;">What if all the “right-wing hippie” stuff the nazis did was not random noise, but deeply related to their underlying ideology? What if the seemingly insane grab bag of positions the nazis held are in fact relatively coherent together?</span></p>
 <p><i><span style="font-weight: 400;">Ecofascism </span></i><span style="font-weight: 400;">isn’t a jumble of marginal gotcha associations, it lays out convincingly the significant role that ecology played in the development of national socialism. Hitler’s variant of fascism — the most influential one by far — was deeply tied to narratives of “ecology” and the direct essentialisms and rejection of thought that provides. However to truly understand this deep association, much less to combat it, requires us to go beyond the muddled lens Bookchin provided.</span></p>
-        
