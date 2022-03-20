@@ -10,6 +10,14 @@ categories:
   - 'Anarchist Core Concepts &amp; Theory'
 ---
 
+<div id="attachment_1820" style="width: 410px" class="wp-caption aligncenter">
+  <a href="/wp-content/uploads/badpeople.pdf"><img class="wp-image-1820" src="/wp-content/uploads/badpeople.png" alt="" width="400" height="618"></a>
+    
+      <p class="wp-caption-text">
+          This text is available as a zine <a href="http://rechelon.github.io/wp-content/uploads/badpeople.pdf">formatted for printing</a>.
+            </p>
+</div>
+
 
 
 
