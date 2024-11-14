@@ -11,6 +11,9 @@ categories:
   - 'Reviews'
 
 ---
+<p class="wp-caption-text">
+This text is available as a zine <a href="http://rechelon.github.io/wp-content/uploads/cina.pdf">formatted for printing</a>.
+</p>
 
 <div class="source-info">CW: lengthy and detailed discussion of abuse, rape, stalking, and apologia for such</div>
 
