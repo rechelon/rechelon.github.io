@@ -1,159 +1,191 @@
 @import url("/fonts/stylesheet.css");
 
+// ─── Variables ───────────────────────────────────────────────────────────────
+$teal:        #325E6E;
+$dark-bg:     #4E4D52;
+$text-dark:   #111;
+$white:       #fff;
+$main-bg:     rgba(255, 255, 255, 0.97);
+
+// ─── Base ─────────────────────────────────────────────────────────────────────
 body {
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-  background-color: #4E4D52;
+  background-color: $dark-bg;
 }
 
 a {
   text-decoration: none;
-  color: #325E6E;
+  color: $teal;
 }
 
-::selection, ::-moz-selection {
-  color: #fff;
-  background: #325E6E;
+::selection,
+::-moz-selection {
+  color: $white;
+  background: $teal;
 }
 
+// ─── Typography ───────────────────────────────────────────────────────────────
 h1, h2, h3, h4 {
-  font-family: bebas_neueregular, "bebas_neueregular";
+  font-family: bebas_neueregular, 'bebas_neueregular';
 }
 
 h1 a, h2 a, h3 a, h4 a {
-  color: #000;
+  color: $text-dark;
 }
 
 h1 {
   font-size: 34px;
-  line-height: 34px;
+  line-height: 1.1;  // was hardcoded 34px — relative value handles font scaling better
 }
 
 h2 {
   font-size: 30px;
 }
 
-.hidden {
-  display:none;
-}
-.clear {
-  clear: both;
-}
-
-.background {
-  background-image: url('../img/bubble2.jpg');
-  background-position: center top -510px
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  overflow: hidden;
-  z-index: -1;
-}
-
-.header {
-  height: 20px;
-  font-family: bebas_neueregular, "bebas_neueregular";
-}
+// ─── Utilities ────────────────────────────────────────────────────────────────
+.hidden { display: none; }
+.clear  { clear: both; }
 
 .aligncenter {
   margin: auto;
   text-align: center;
 }
 
+.alignright { float: right; }
+.alignleft  { float: left; }
+
+// ─── Background ───────────────────────────────────────────────────────────────
+.background {
+  background-image: url('../img/bubble2.jpg');
+  background-size: cover;                  // was missing — prevents tiling on mobile
+  background-position: center -510px;      // consolidated from two properties
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
+// ─── Header ───────────────────────────────────────────────────────────────────
+.header {
+  // Removed hardcoded height: 20px — it was clipping the content inside.
+  // Using flexbox instead so the title and nav sit on one row and wrap cleanly.
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-family: bebas_neueregular, 'bebas_neueregular';
+}
+
 .site-title {
   font-size: 38px;
+  color: $white;
+  padding: 20px 30px;
+  // Removed float: left — handled by flexbox on .header now
 }
 
 .top-sidebar {
   font-size: 22px;
-}
+  background: rgba(0, 0, 0, 0.85);
+  color: $white;
+  padding: 10px 0;
+  margin: 10px;
+  // Removed float: right — handled by flexbox on .header now
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;               // links wrap on very small screens instead of overflowing
 
-@media (min-width: 1280px) {
-  .top-sidebar {
-    position: fixed;
-    right: 0px;
-  }
-
-  .site-title {
-    position: fixed;
-    left: 0px;
-  }
-}
-
-.site-title {
-  color: #fff;
-  padding: 30px;
-  float: left;
-}
-
-.top-sidebar {
-  float: right;
-  padding: 30px 10px;
-  background: rgba(0, 0, 0, 0.95);
-  color: #fff;
-  margin: 20px;
-
-  :first-child {
-    border-right: solid 2px white;
-  }
   a {
-    color: #fff;
-    padding:0px 20px;
+    color: $white;
+    padding: 8px 20px;
+    white-space: nowrap;
   }
-  
+
+  // Replaced fragile :first-child border with an explicit separator between links
+  a + a {
+    border-left: solid 2px $white;
+  }
 }
 
+// Fixed nav only kicks in on wide screens — unchanged from original intent
+@media (min-width: 1280px) {
+  .site-title   { position: fixed; left: 0; }
+  .top-sidebar  { position: fixed; right: 0; }
+}
+
+// ─── Main content ─────────────────────────────────────────────────────────────
 .main {
+  // was: width: 650px — overflows on screens narrower than ~730px (650 + 2×40 padding)
+  // max-width + box-sizing lets it shrink on small screens without overflow
   width: 650px;
+  max-width: calc(100% - 32px);
   margin: auto;
-  padding: 40px;
   margin-top: 100px;
-  background-color: rgba(255, 255, 255, 0.97);
-  line-height: 27px;
+  padding: 40px;
+  background-color: $main-bg;
+  line-height: 1.65;             // was hardcoded 27px — relative is better for accessibility
   font-size: 18px;
+  box-sizing: border-box;        // ensures padding doesn't push width beyond 100% on mobile
+
+  // Tighten padding on small screens so reading area isn't cramped
+  @media (max-width: 600px) {
+    padding: 24px 20px;
+    margin-top: 70px;
+  }
 
   h1.title {
     margin-bottom: 40px;
   }
 
   .category-list {
-    padding-top:20px;
+    padding-top: 20px;
+
     a {
-      color: #000;
+      color: $text-dark;
       font-size: 19px;
       font-weight: bold;
     }
 
     ul {
-      margin: 0px;
-      padding: 0px;
+      margin: 0;
+      padding: 0;
 
       li {
         list-style-type: none;
-        margin: 0px 0px 10px 20px;
+        margin: 0 0 10px 20px;
       }
     }
   }
 }
 
+// ─── Category headers ─────────────────────────────────────────────────────────
 .category-list h2 {
-  background-color: #325E6E;
+  background-color: $teal;
   padding: 10px 10px 10px 30px;
   margin-left: -40px;
-  color: white;
-}
+  color: $white;
 
-.preview-block {
-  border: 1px dashed #000;
-  padding: 20px;
-  margin: 10px 10px 15px 10px;
-
-  h3 {
-    margin: 0px;
+  // On small screens the negative margin can clip — pull it in
+  @media (max-width: 600px) {
+    margin-left: -20px;
   }
 }
 
+// ─── Post preview block ───────────────────────────────────────────────────────
+.preview-block {
+  // was: border: 1px dashed #000 — replaced with a left accent consistent with the teal palette
+  border-left: 4px solid $teal;
+  padding: 16px 20px;
+  margin: 10px 0 20px;
+
+  h3 {
+    margin: 0;
+  }
+}
+
+// ─── Misc ─────────────────────────────────────────────────────────────────────
 a.rss {
   display: block;
   float: right;
@@ -163,17 +195,9 @@ h2.home-cats {
   margin-top: 40px;
 }
 
-.alignright {
-  float: right;
-}
-
-.alignleft {
-  float: left;
-}
-
 .wp-caption-text {
   font-size: 16px;
-  line-height: 16px;
+  line-height: 1.3;
   text-align: center;
   color: #555;
 }
