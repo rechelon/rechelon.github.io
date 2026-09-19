@@ -1,0 +1,86 @@
+---
+id: 75
+title: "Asymmetric Speech Constraints Around Anarchism"
+date: 2026-09-19T00:00:01+00:00
+author: rechelon
+layout: post
+permalink: /2026/09/19/asymmetric-speech-constraints/
+categories:
+  - 'Anarchist Core Concepts &amp; Theory'
+---
+
+
+Any minority position faces an uphill battle at persuasion.
+
+In the crudest account of how these positions win, some steadfast martyr bravely stands on a soap box in town square shouting their idea out to a hostile crowd, stoically weathering the scoffing dismissals and rotten vegetables until reason gets one person to join them and then another... until one day they've persuaded enough people that they get to dress in their respectable best on stage and have a very polite debate, delivering crushing facts and logic, and then a vote is taken and victory achieved.
+
+This is not, of course, how anything works, and people can accept all kinds of correctives about cognitive biases, mass psychology, institutional barriers, etc. But there is a sense that this is *roughly*—at core—how it happens. You can approach the referee to complain about cheating, but this is the game. If you hold an unpopular position, you just have to be patient and deferential, explaining your better mousetrap over and over from scratch to every random bystander.
+
+And look, I'm a writer, I've shaped much of my life around persuading people with better arguments. I'm not one of those people who think you can never change anyone's mind and it's always a total waste to try. I may intimately understand that persuasion alone is a catastrophically incomplete strategy of social change, but I'm not here to dunk on persuasion or even debate as such.
+
+Without whining to the referees, I want to bring your individual attention to some systematic skews in the game you may be unaware of.
+
+Anarchists face four main impediments to communication within the "political debate" of liberal democracies that most other ideologies do not. The first three are direct products of state violence, the last is a product of complexity and bandwidth constraints.
+
+1) __It is simply illegal for anarchists to tell the whole truth about our *prescriptions*.__ Like any movement, we're going to have a vast array of strategic and tactical prescriptions in different contexts, but because we don't care about laws and are aligned against the continued existence of the state—which many laws are specifically written to ensure—our bundle of prescriptions will inevitably include some illegality. Anarchists in the US have long been intimately aware of how crossing state lines to plan or advertise a protest in which someone might step into the streets without a permit can be and has been charged as felony conspiracy. Sometimes one can speak in distant abstractions, like that it was clearly morally and strategically justified for non-state actors to assassinate certain influential figures in the Nazi regime, but obviously if there was a Himmler alive today it would be highly illegal to openly point out the advantages to be won for liberty by someone killing him. The example of assassination is on the far end of a vast spectrum, but that entire spectrum is pretty much unspeakable without some form of violent retribution from the state. So one must always be aware that in asking anarchists any serious or detailed questions of *how*, we must respond partially gagged and with one arm tied behind our back. Different regimes impose different levels of constraint, but even in the US advocacy for revolutionary change remains formally classified as treason punishable by death, and it's merely a matter of "norms" not to actually enforce this.
+
+2) __As with prescriptions, the threat of state violence impedes anarchists from telling the whole truth of our *accomplishments* and even the nature of our enemies and challenges.__ One classic chide from critics is that radicals are not sincere because then we would be "firebombing a walmart" or something similar. Such rhetorical barbs have the pretty obvious benefit that no one serious is going to admit to ever engaging in anything illegal in order to win cred in a conversation with a stranger, much less someone hostile and with opposing goals. This enables a kind of trap whereby every anarchist can be performatively written off as either unserious wimps or macho fools (in prison or soon to be). Of course, after anarchists grow old and die, then the stories come out about daring serial bankrobberies and international counterfeiting operations, but at that point such figures are old fogies clearly of a different era. Even bringing up present day publicly known things like helicopter escapes from prisons and corporations destroyed from hacking can risk getting one drawn into state investigations and reprisals. The more extensive details we lay bare about the successful impact of anarchists, the more we make a case for our repression. What the liberal interlocutor implicitly wants from a "protester" is someone who performatively lies down in front of the police and then takes the resulting year-long sentence for lawbreaking "with honor, like a man." Such a performance is highly ineffective as a tactic, but moreover such a notion of honor implies a *respect* for the legal system and current regime that it would be incoherent for us to have. One would not expect the French Maquis to line up, unmask and publicly brag in town square about every nazi they poisoned, every Jew they smuggled, or every logistical impediment they created.
+
+3) __Even when it comes to merely *describing* the objective features of our present world, those details of most relevance to anarchists are often not speakable without legal retaliation.__ In much of the world, absurd "libel" laws impede our ability to accurately describe individuals and their actions. Even to correctly describe a politician or cop as a murderer (for something the state wants to arbitrarily exceptionalize as a different sort of killing) is often classified as "incitement." As many are presently aware, to name a state's actions as "genocide" rather than "war" has been judged "hate speech" in many locales. Such consistent legal privileging of the state (and the rich) curtails basic descriptive analysis and normalizes tiptoeing that is fundamentally dishonest, not only in language ("officer involved shooting") but in broadly misrepresenting the popularity of certain beliefs or openness to them (since radicals end up being obliged to pantomime as moderates). Further, because the state reserves the right to declare innocence or guilt of matters, we are often not allowed to have our own evaluation on the facts around formal crimes and survivors are often sued for simply telling the truth. Moreover, the accomplishments and successes of anarchists have even led to laws that classify the speech acts of merely naming stockholders or tracing companies contributing to a project so they can be boycotted as "terrorism." The sharper and more extensive our critiques of existing powers, the more gingerly we must step around enunciating them, because power can engage in legal retaliation.
+
+4) __The more radically different a society or culture is from what one is used to the greater the volume of explication needed.__ Even a single minor policy change can have huge implications that require significant work to trace. But because anarchism attacks *all* relations of domination simultaneously it necessarily involves an extended revision of basically every aspect of our society and many of our working assumptions. Thus the anarchist often cannot explain one thing without being obliged to explain a dozen other entangled things. The function of alternative incentive systems is entangled with the dangers of centralization, which is in turn entangled with strategies of resistance, which is in turn entangled with historical analysis, which in turn is entangled with social epistemology and metaethics. If a visiting alien or a Kalahari bushman asked "but how do you handle sewage?" to a member of a modern industrial democracy, no surface level explanation could suffice without hours of explanation in various directions. "Ahah! Even granting this 'legitimacy' concept you speak of would somehow be broadly accepted, there's no way this taxation you speak of would work! Why wouldn't..." And you can imagine this person saying, "well your zine about building an 'industrial liberal democracy' is interesting but it just opens up too many questions I don't feel you've answered in it, so occam's razor suggests you're just ignorant." Anthropology and game theory reveal that there is a vast array of possible societal arrangements far afield from our present world, with stable optima sometimes quite far apart. Intellectual conservatism and parochialism—a reflexive defense of the existing or "common sense" and an unwillingness to hear out and explore alien possibilities in depth—may leave money on the table, but they are nevertheless popular instincts and create hard walls to productive communication.
+
+So anarchists are in a relatively unique position. We're barred from sketching a full map of the existing order. We're barred from laying out a full map of how we would go about struggling against it. We're barred from giving a full account of our successes and impactfulness. And we can't even begin to compact what a liberated world would look like within a short window of attention much less simultaneously answer every single objection or issue.
+
+Normal political discourse takes place between two discretizable policy proposals, for instance 2% lower taxes or 2% higher taxes. These are easy to stage as a rowdy debate or civil meeting of the minds. Neither party has a gun pointed at their head, just off camera, should they completely state their prescriptions, accomplishments, and critiques of the existing order. And neither party faces anything like the aghast perplexity at the complete reorganizing of society one must begin to describe to make the idea of “*zero taxes*” make any sense.
+
+In short, the standard experience of "free and open debate" within our society is a highly managed sport, so spectacularized that observers and participants tend to lose track of the very arena it takes place within.
+
+In many cases, our liberal/conservative/etc interlocutors are not entirely unaware of the unfair disadvantages we labor under, but in fact *relish* them. Many philosophers for example, bemoan that anarchists are obviously indisputably morally correct, but this is treated as so much the worse for ethics. There is often a deep frustration at how "unfair" the position of "no domination whatsoever" is, how hard it is to argue against "why don't we just be consistent and universal in opposing slavery and abuse?" And so there's a palpable glee that many openly express at the lay of the land being tilted against us. *Yeah well, say the next part and you'll be abducted and tortured (sent to prison).*
+
+If one starts with disgust and hostility towards anarchists, then there's a certain joy in the power and status of always *not having* to engage with our ideas because we are small in number and there is no immediate price we can inflict on those who delightedly exploit the discursive asymmetries.
+
+And many feel quite fine with such unfair boosts because they see the point of free speech and open debate as not an epistemic project of individuals but essentially a boardroom discussion on how to better run the state. Since we would overturn the table, prohibitions on our ability to speak freely are in line with keeping the meeting going.
+
+This seems to be the basic gamble of modern liberal democracy: you can critique anything except the premise of the state apparatus itself. There are some rules of the game, some mechanisms that must be beyond critique. Their gamble is that the blindness that necessarily results will not have negative consequences.
+
+But all these structural constraints aligned against anarchists don't just impede us, they dramatically curtail the already impoverished liberal imaginary.
+
+Blinding oneself to the expanse of possibilities of stateless societies inevitably involves partially blinding oneself to potential different configurations of the state. Blinding oneself to avenues of struggle, resistance, and contestation outside or against the state inevitably blinds oneself to ongoing dynamics of repression that in part underpin the present state. And, of course, blinding oneself to all this means partially blinding oneself to dangers outside the state.
+
+Like anarchists, many fascists likewise represent an entangled alien paradigm in direct conflict with core scaffolding of liberalism, and the inclination is to treat both movements as some nebulous but exceptional category of "extremism" to be violently suppressed in self-aware hypocrisy (or structural states-of-exception). Indeed, quite frequently liberals openly conceptualize fascism *as* anarchism—Trump was repeatedly described as "anarchist" and fascism is hilariously often described as "lawless." There's no doubt a kind of comfort in collapsing all the strange things together as indistinguishable foreign barbarity that must be ruthlessly stomped out by those within the civil core. Who is within this core? Well it's anyone for whom the strange barbarians are strange barbarians.
+
+Antifa researchers have long pointed out that liberals treated *unfamiliarity* with fascism as a kind of virtue, and signifier of citizenship. Of course today many liberals have become functionally smitten with the ascendant fascists now that they hold power, while still apoplectic at the faintest hints of discursive influence from the more radical or alien paradigm of anarchism, however watered down ("defund the police", "abolish prisons"). The dynamic remains the same: the less you know about the outsiders, the more of an insider you are. Matthew Yglesias' infamously endless public pratfalls failing to understand the first thing about anarchists or the left are not a shame-kink we're all being roped into but a conscious and intentional performance of liberal virtue. When he argues things like 'the problem with anarchism is the billionaires would buy the politicians' the responding opprobrium from the rabble is confirmation of his sanctity, his purity.
+
+Putting aside the ways this has repeatedly proven catastrophic at predicting or responding to outsiders, it's obviously inevitable that a conceptual boundary like "extremism"—so derivative from social topology—is liable to quickly change its contours. It seems like many "anti-extremists" are quite aware of this, and are simply gambling that so long as they double down on shutting out alien barbarian ideas, they will remain "safe" within the shifting frontlines.
+
+Yet one only needs to look at projects so committed to evicting nebulous "radicals" from polite allowable discourse—like Bari Weiss' desperate attempts to expunge once standard liberal humanist planks, like open borders and rejection of ethnostates, from mainstream circulation—to see how this only leaves one in an ever-smaller rotting house.
+
+Incidentally, this is not, of course, to say that discourse and legitimization should have no boundaries. Balaclava clad antifas have long applied diligent good faith to intricately examine and trace the ideological frameworks of the same fascists they jump, *without* legitimizing them with a public platform or staged debate. We can easily say that fascists seek values totally at odds with ours while still diligently reading them.
+
+It's just that liberalism has historically floundered at explicitly drawing lines against anarchists over *values*—unlike fascists, liberals often retain enough conscience to be embarrassed and squeamish about admitting they're standing for *some oppression* and opposed to *no oppression*. Oh sure, the occasional ideologue of the liberal state will enthusiastically rant about how she'd help the nazis march anarchists to the furnaces. But mostly liberals want to win—both in debates and power—via more indirect means. 
+
+This is part of why there are so many structural skews against the anarchist, and it's certainly a large part of why most liberals choose not to notice these skews, and if they do notice, choose not to counter-balance with any personal effort at investigating and extrapolating.
+
+Any good-faith engagement from non-anarchists must acknowledge the unique constraints we face.
+
+That we are closer to travelers from a distant, strange and alien world than neighbors squabbling over a fence's color.
+
+Yes, yes, you value the state very strongly. You think its sanctity is the only thing holding us back from barbarism, a chaotic war of all against all, uncoordinated dysfunction inevitably replaced by ruthless warlordery and ultimately worse tyranny. Sure, whatever. But before anarchists can even raise a challenge to all this, you have to ask yourself: do you value the state more than you value finding the truth?
+
+Anarchists may, in fact, be too stupid and ignorant, to measure up to the fiercest combatants of debate in our society. But how would you ever know?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
